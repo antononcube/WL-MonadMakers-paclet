@@ -35,7 +35,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1972653831,ExpressionUUID->"6f6e9ba2-3af9-4db2-b4a4-90c4382923af"],
+ CellID->1972653831,ExpressionUUID->"971a4fe9-08c0-4ef5-a2e5-7cb4f0634e63"],
 
 Cell[CellGroupData[{
 
@@ -64,7 +64,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"6390853a-a432-460e-8fdc-cee6de9c197b"]], \
+   "Text"}]],ExpressionUUID->"450a9098-5d0e-4728-9f02-bfe6878e8a03"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -75,7 +75,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1540395231,ExpressionUUID->"342d0605-9a8b-488c-9d1e-7ffd799f6c3b"],
+ CellID->1540395231,ExpressionUUID->"1479c8ec-47d9-4794-8e11-407b6c5fdf69"],
 
 Cell[CellGroupData[{
 
@@ -104,7 +104,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"cb9db0ca-cbbc-42df-b854-7f2d9330cb49"]], \
+   "Text"}]],ExpressionUUID->"8871be94-ebde-4bdf-9d3c-b5b1fdd58546"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -115,7 +115,9 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->914772242,ExpressionUUID->"e96878fa-5e55-4111-826c-de19c2a63203"],
+ CellID->914772242,ExpressionUUID->"a65fe3bf-ce79-4ac4-bde1-da006bed86df"],
+
+Cell[CellGroupData[{
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -141,7 +143,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"674fc632-e261-4c58-83ea-b880f24af382"]], \
+   "Text"}]],ExpressionUUID->"ebba0943-1a33-4915-9834-e3e62bd932d3"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -149,10 +151,37 @@ Cell[TextData[Cell[BoxData[
  CellFrameLabels->{{
     Cell[
      BoxData[
-      TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
+      TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->741642421,ExpressionUUID->"a7ad8f4d-b7c5-427f-a455-39614a581b6d"],
+ CellID->741642421,ExpressionUUID->"c54e43d7-b0b6-446e-a090-cb0dbd8dbe19"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"Monadmaking.nb\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "English", "Guides", 
+       "Monadmaking.nb"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[3]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "English", "Guides", 
+    "Monadmaking.nb"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 130},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->516965092,ExpressionUUID->"94217378-6d21-4100-ad06-9062d16fac47"]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -181,7 +210,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"92a7be70-90a3-4a4f-be04-cb53213a2897"]], \
+   "Text"}]],ExpressionUUID->"dc64e999-6832-4820-9de2-65bcf43ed06f"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -192,7 +221,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->789082559,ExpressionUUID->"d2720e2e-8d7f-4617-b15b-5091a7f3d98c"],
+ CellID->789082559,ExpressionUUID->"826f463e-1560-495a-bb4a-608f2cd98cf6"],
 
 Cell[CellGroupData[{
 
@@ -222,7 +251,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"fba44b4f-7e9a-443f-b252-66414021faca"]], \
+   "Text"}]],ExpressionUUID->"c47ee70b-77fe-42c6-a3cc-6dec3924ee93"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -233,7 +262,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1399048888,ExpressionUUID->"4cf3ac60-1374-47a6-8890-435c687fcb0d"],
+ CellID->1399048888,ExpressionUUID->"b6ab003a-5255-4a11-a0c7-b78e65dd3dc1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -259,7 +288,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1016209613,ExpressionUUID->"0b5089dd-1cc2-4151-a4e3-e4cc9aa2bdfb"],
+ CellID->1016209613,ExpressionUUID->"120dbe64-0a92-4226-96b8-8d23848ce276"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -285,7 +314,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->497521100,ExpressionUUID->"201b6684-364c-4279-a916-e6e6949731ae"],
+ CellID->497521100,ExpressionUUID->"48c9c6ab-b591-4362-8218-0da1b5ab6129"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -311,7 +340,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1683289929,ExpressionUUID->"7a4607d5-adf2-4317-be41-f821e3fcd913"],
+ CellID->1683289929,ExpressionUUID->"a933760a-c34e-4c39-b032-e2ce61760bea"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -337,7 +366,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->104271125,ExpressionUUID->"4aed9ee4-efc9-479e-a44c-1469a9b61576"],
+ CellID->104271125,ExpressionUUID->"2877e792-1cec-489e-9e2f-5a2515c14e05"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -363,7 +392,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->138141923,ExpressionUUID->"dfced59f-7342-48cb-83ab-ba96b8661805"],
+ CellID->138141923,ExpressionUUID->"4880b5c3-62e9-477c-948b-503468a64fdf"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -389,7 +418,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->321477454,ExpressionUUID->"e5050e2e-7376-4537-8a0e-8a45382a0c59"],
+ CellID->321477454,ExpressionUUID->"d5c41549-08e9-45e7-ac56-79c2afdbd762"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -415,7 +444,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2713526,ExpressionUUID->"a3e61e76-c944-435b-9cd0-1299a3cfa3ee"],
+ CellID->2713526,ExpressionUUID->"27269d34-d677-4582-af5c-0977395af730"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -441,7 +470,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->509074895,ExpressionUUID->"74ef426a-8a29-429a-b877-2a31e232d0de"],
+ CellID->509074895,ExpressionUUID->"c80545fb-797e-4f90-9602-5e815b85c779"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -467,7 +496,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->446910617,ExpressionUUID->"42d281b1-0af8-4802-920c-7ea1d30136ff"],
+ CellID->446910617,ExpressionUUID->"8658f36e-5c24-424d-bda2-fa2f37e1b2c4"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -493,7 +522,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->920518883,ExpressionUUID->"9e7e1e70-eecd-4407-908f-93fcea6e2553"],
+ CellID->920518883,ExpressionUUID->"5eac210e-253f-48cd-9048-8dfed0cc2399"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -519,7 +548,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1476426360,ExpressionUUID->"ef385bc1-697f-4cb0-ab99-65ac0b80092b"],
+ CellID->1476426360,ExpressionUUID->"b0c24ca4-e4bc-4ac0-bc88-0f34f5754a76"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -545,7 +574,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->124291435,ExpressionUUID->"cee1e27f-75bd-4239-a669-34e82220c7af"],
+ CellID->124291435,ExpressionUUID->"7eace0d3-65d1-4f3a-9830-6f9aba29ad83"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -571,9 +600,11 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1612043161,ExpressionUUID->"42e25050-9281-41eb-8754-7502772ffe27"]
+ CellID->1612043161,ExpressionUUID->"9151496d-6e77-4af1-9a52-315216085342"]
 }, Open  ]]
 }, Open  ]],
+
+Cell[CellGroupData[{
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -600,7 +631,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"e78f014c-89cf-49ad-9ac6-b7b6c92def6d"]], \
+   "Text"}]],ExpressionUUID->"582f2374-388a-4933-adac-aee7c8f7f16e"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -608,10 +639,37 @@ Cell[TextData[Cell[BoxData[
  CellFrameLabels->{{
     Cell[
      BoxData[
-      TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
+      TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->955716375,ExpressionUUID->"7afabd1d-5ff0-4c00-afaa-bfa80da18483"]
+ CellID->955716375,ExpressionUUID->"a632d6b3-7a10-4f2f-bc94-44bb4d30b34e"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"Monadcodegenerationandextension.nb\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "English", "Tutorials", 
+       "Monadcodegenerationandextension.nb"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[3]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "English", "Tutorials", 
+    "Monadcodegenerationandextension.nb"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 130},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->2060949129,ExpressionUUID->"ad6c1f8e-6b32-4d33-a695-97564c8e3c23"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]],
 
@@ -641,7 +699,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"36a554b0-240c-4e18-90e7-3331b94aa797"]], \
+   "Text"}]],ExpressionUUID->"1471f2ff-f756-4b15-8e92-b4d5cfbcedc8"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -652,7 +710,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1507282832,ExpressionUUID->"2356c37c-9ccf-46be-ae84-976b68fc9e4c"],
+ CellID->1507282832,ExpressionUUID->"85962163-7ea0-42b1-a2ed-e07afd234825"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -676,7 +734,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1185457412,ExpressionUUID->"8194ca9c-a48b-4b9b-998a-66de6328b382"],
+ CellID->1185457412,ExpressionUUID->"bff3167e-223a-4b57-99e5-817d397e8e7c"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -700,7 +758,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1694918712,ExpressionUUID->"c19a4436-44aa-463c-bb7b-764a10d325e8"],
+ CellID->1694918712,ExpressionUUID->"34f6f678-d6f2-436c-97df-6cc95f8dcc2a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -724,7 +782,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->128215129,ExpressionUUID->"18ecdcc6-1f7f-4e05-b7d5-3fd4d44953e3"]
+ CellID->128215129,ExpressionUUID->"77dc6e4d-8607-461c-9024-1c0c3408faef"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -749,7 +807,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1776930265,ExpressionUUID->"b7f87b04-1a16-485d-8ddc-585e2009922d"],
+ CellID->1776930265,ExpressionUUID->"972571c0-104e-401c-99d7-955cc3460b86"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -773,7 +831,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1959368673,ExpressionUUID->"09c7341a-f12b-4b4c-b013-752d26ae31f4"],
+ CellID->1959368673,ExpressionUUID->"cb8fb3d6-f86d-453c-b5da-8f60b05a5729"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -797,7 +855,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->985575162,ExpressionUUID->"c997a22c-a526-437c-a736-12389b008764"],
+ CellID->985575162,ExpressionUUID->"4d08b6ec-a5b0-4adc-b458-6407b9b4ca82"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -821,13 +879,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1595044013,ExpressionUUID->"9db16df8-7b70-4bc1-a6c6-54c17caad0cf"],
+ CellID->1595044013,ExpressionUUID->"819f3f4b-658a-4aab-8323-9c2eb13b3f33"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->866360990,ExpressionUUID->"73193b7c-0fd6-4e4b-bdf9-b47c8e01e1d8"]
+ CellID->866360990,ExpressionUUID->"1a3bd513-dd80-4ef3-87c8-0260c2e5fe8c"]
 }, Open  ]]
 }, Open  ]],
 
@@ -942,28 +1000,933 @@ image from a local file, use notebook-relative paths when possible (e.g. ",
  CellID->509724307,ExpressionUUID->"7c63fe97-7927-401f-b577-75157e27ecb8"],
 
 Cell[BoxData[
- TagBox[
-  GraphicsBox[
-   {EdgeForm[GrayLevel[0]], FaceForm[GrayLevel[1]], RectangleBox[{0, 0}], 
-    InsetBox[
-     StyleBox[
-      TagBox["\<\"Image Placeholder\"\>",
-       Annotation[#, "PlaceholderImage"]& ],
-      StripOnInput->False,
-      FontFamily->"Source Sans Pro",
-      FontSize->16], {0.5, 0.6}], InsetBox[
-     StyleBox["\<\"Replace this with an image\\nthat you would like to \
-display\\non the landing page for your paclet.\"\>",
-      StripOnInput->False,
-      TextAlignment->Center,
-      FontFamily->"Source Sans Pro",
-      FontSize->10,
-      FontColor->GrayLevel[0.5]], {0.5, 0.4}]},
-   ImageSize->250],
-  #& ,
-  TaggingRules -> {"DefaultContentBoxes" -> True},
-  AutoDelete->True]], "Input",
+ GraphicsBox[
+  TagBox[RasterBox[CompressedData["
+1:eJzs3WWYZNXZuPuc8z8fzsfzIXkhQCAwuLsFCe7u7hYGd3cLEiR4EmTwMMAE
+DU6wQYIzuAZnGDQESGCd3IvrqXd1TWlPV1f19P27rprprq7ae9feu/Zez1rP
+Wmv6bfdYd8f/+yc/+ck+/+9//1l3mwOW2XvvbQ5a7//77y8b7L7PLjvtvsP2
+q+y+7w477bD3otv+n/8++fj/9ZOfnPffH/6f//6cJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEkaJn744Yf8/z/+8Y80evTo
+dPfdd6evv/66y1ulUhyjTz75JN1000358emnn3Z5q1SKY/TPf/4z3XXXXfm7
+9O6773Z5q6ShI75DX3zxRfrrX/+abrjhhvThhx/2+ZskaWj4z3/+k/7973/3
+ee77779P3377bZe2SIOF44z7778/LbDAAmnOOedMs88+e1p66aXT+PHj89+8
+r3dXHKPXX389Lb/88mm22WZLc889dz5WzzzzTP6bx6i7Yv9/+eWXabPNNkuz
+zDJLmm+++dL000+f/vKXv+S/xXGUNLH4Dn388cdpnXXWSbPOOmuad95504wz
+zpjuueee/De/Q5I0dOy77765vErZKJxyyinpF7/4Rfrggw/y72X5lefuvPPO
+3M7FvaAdsZy33347L4PHhAkTJlqHOi/2N/UI2223XZpnnnnShRdemGPNc845
+x+PRI+I4HH300TluOe6449Kjjz6azjjjjEobpsequ6LcO2rUqHyM9thjj3yM
+zj777PTSSy/1eY2kicU1jHvPzDPPnA488MD02GOPpbPOOiuXF8rXSJJ63wEH
+HJB++ctf5ms5vvnmm7TlllumESNGpPfffz8/x3U9ru3XXXddWnvttdPBBx+c
+nn766crfWxFlrPvuuy+vd5VVVkn33ntvfo52VA2eOGYfffRRbrP8/e9/3+d5
+9ZZlllkmxy3B49Q74tq1/fbbp9VXXz199dVX+XePkdSaKBtssMEGaZNNNknf
+ffdd/t3vkCQNTdQTTjPNNOm8887Lv9PfgVxJ8lPee++9/FwZX1577bXpsssu
+yz/3NyaM9xHT0JdsUpal/onj+dZbb6Upp5zSOL+HUfYiLzbqAKrz2dVdUTZe
+bbXV0o477ph/9nsktS7uR0sssUQuk8DrnCQNXfvvv3/u57Drrrvm32+//fa0
+6KKLpsUWW6xPXorx5eQhjiP1CLRFn3nmmbmfGPmXV111VbrgggvMR+oRjLM0
+ZsyYdOmll+Y25t/85jf5+3fuuefa97KHMBYJx4WyMbkdjO3DMfrb3/6W/+4x
+kurj3n/zzTenq6++Oi244IJp0003rXyHxo4dm1/jd0iShpa99torbbTRRmnD
+DTfMYx+eeuqpac0110wrrbRSeuONN/JrjC8nH7GfH3jggTTddNPluoW55por
+P+iD6XgK3RffNfIHGMcnjg8Pxo2Zdtpp0x/+8If8Go9R9y277LI534N+7OUx
+og8AyuunpL6oR6NOmzq08jrHGBDHH398fo3XOUkaWmi3PPLII9Naa62VHn74
+4Rxv0qbJGKLkTsL4cmji+JXjNiGOI33EXnnlldz2Qvsl9cXUJ9CnlvHhNTjo
+4xzjZFXHIOSHvfzyy+mpp55Kc8wxRzr55JPTO++8k5588sm2x9ZS/zGOEvP3
+oFac+Oqrr6bXXnstj+9LfizzknCMOFYaHMQojLEMY/new3jkZX+bEr9zL2Is
+LPKm9ttvv8p3KMaAkCQNLbvssktusySuPPzww9PIkSPTNddck+sTyzKV8eXQ
+Efvyj3/8Yz6WqHVPB2Vj6on//ve/93mvOivq44nvGQu2Ecb4Jb5kfFLYL2lw
+xHdk3Lhx6Ygjjqg75kgcS8YrYzxueIwGF3UABx10kPMl9pg4DowfyNjX1c9X
+I8f8hBNOyD/zHYrvFrEp/TIdM1uShoadd945nX766TluJL+LeJO+XYzxE/Xv
+3YgvubcwzizrY57l66+/3kcbD/bZn//855z3/MILL1SOY2g1vqS8xnw1tG9W
+LwO8j/V4jNp/0P+VfkfMmUicWWv/ol58Ga/l2JDjvtNOO/Vpw4m/0y7A96jb
+n3coPti3t912W+77GmOgtRNfxmvpi7nNNtuk9dZbL91yyy0THSPaa7r9WYfq
+g+8Rx4j6UcY1r77GDYTnnnvOe1E/H/EdYh6syy+/vOGxqRdfvvnmm3ls2Xq5
+HpKk3kKZlPYTciOJMxjvhfIo/R+6HV8yxyZjzrBOYhgf7T24t//pT3/K5S76
+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
++QKU2RnjNPrRxvnF/A0cv3aXzT4ib43vSmCZzOVBvnyML0V8E2OrEncvt9xy
+ldwFlsU2Ml8rfRUb5Y7GetlnfI8efvjh/HuzfVe+j2vG1VdfnfMvGDek/Hv1
+6/l+c27F+MqdKEPHuojvyUVnjEzqkuK8iGM0ZsyYNPvss7d87QgcA/quVcfS
+N9xwQx6TOJZHHRCvC/wcfe1jG4j7uA5Xj9Na6/NwnDkPIqe+1e3l+K+88sq5
+/wTf2RdeeKHm++N3rkFsO3PwtLOeVpRjAXFM+A5x/hAPErcjvv/E/ow70+o2
+lNcB+ueW5z3LZr5I9l1c6xnrnfFtQb0O98bYNyAPm/k5mZeq0Xlafnc5t8ux
+ERqJvz/zzDN5H3A+cp1j/9f6zPH7c889l69z/N/KeiRJ6oS4XzNWCfFclPcZ
+P457G8rxTbivtrvsMr6MshP3ZeaKiLiAdoK55pqrErswhirxQ7l+ysP0gWtl
+3Bv+RlmOGIwyRbmceq8PO+ywQ+7b2uw98XfGeKG82qkxRWN5zGHDMSK2Yl9Q
+7qgeO55Yj7iw3WWX8WU8x+dhrgGWGcdy1VVXzeMP4YorrshzeZR5iJw/xE88
+18r+5vhTXh09enT+vVnudryPsl+0XzR6T1n+5ry+7bbbWlpPu2I9lFu33HLL
+3G+aeGzFFVesbGfsDz5zlBPbWXat+JLYg+8Kc9ZFWxtzojN/B6i/mXnmmdPY
+sWMr7xk/fnx+D/2sWokvWR/nB2OEodVjxPkR50orx4jvNTEVdTXoRJ/WWBfx
+CfOg0J618cYb5zk3S8SJXO/ajZ/qxZeMCUXcHMeOeIbrHZ+Z40F/XmJ+xOcm
+X4Tv0zfffNP083DsqUOonpOy2fu47vP5mynzBpg/NuZxHshrXXm+UY/F+APE
+vNwH2F/l+thn7eQ/N4ovyVdhX1P/Efua+JZtAHUjfIfK+JKYk2PKNbnVc5tr
+HDEpmp3b8T6uWa2Mfxyv53pAnQTfvVbWI0lSJ8Q9i/In99P4fYMNNqiMB8S9
+insW9evl/GXcq5nTkfIG98GIFUE5hHIi5UViy3KeLVDOj7ZK0F+K9p6DDz44
+L2f77bdPa621Vi5PlPMXtpq/FZ+Ddh3KUI3eE/dmyhm0tRATMH8YOVjN5maL
+9bCPmMu0lW1rVxlf0n4Z85FTJo72ZOJM2kc4RtEmDGISyqjEirRRUC4ql8vx
+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
+TqGT8WUnERPEPBnVyviy1c9UHV9yvDmfy/1GGb9s46mVHxv7lX0afbUb9fvj
+9bXWE/EUBis/dqDxGci5r/78ZVtuO9eFWvEl5wH7q9x3ZZxUK76MdTIHDrFV
+xJeN1ss1u/oYRdyFTsWXncR5V7ZPI/ZRGV+2GitWx5etnNu18mNj/1EPGH1I
+Gu3TeuspY1LjS0nScDNQ8SWIZciRom8M49ZQ50xbDWXhUB1fxj2YOesYhyPm
+SKt1T4/XMuYQZbOYP4W6bMrTZZ+6oRpf1jJQ8SWYr4Fjwj7jGLH/aIejDBSq
+48tYP21H5JZGnlqjY0R7Ee2cnAOshwfrpJ9oGKrxZSOTGl+C+gXGQ+G4cHzY
+j7TxlGMC1Wu/5JjQhh1za9SKL8vjSds67e6xHtr74vhiqMaX9QxUfMm+oK6F
+PGT2WxyjmDMTjfpf0g5Gm22z7SReJXasXg99vcNQjC9rGaj4EtQt0C+h+twu
+71f12i+J+cm15l6FRtc5xqIij5ZrW9yPuDdFvg2MLyVJw03c7yhTkhPIuKVo
+VE6J95Djx3tiLoBmc7XTx5K+NhFjlG1Z3JOjbDapZSTK6uRmlWOcDGWxP+hD
+Rp5a5NO28h7iPGLCiDeavZ5+guQTxvgzZb8kcq+jTNzffRrrIX5lPQ899FBl
+PZMDyqbkDzKeCe0aaLaviA+YW+Pkk0+utH/Vek/sO/oiU/4t22ti/40ZM6ZP
+X9L+HKdYDzmq5KZPTmXjcj4U6jyID9DKWNbEKOSzx9wajY4R1x7qB+L7Utal
+0XZJ/m7k0k/KMeL7TX0C506zz9HryvxU+mUSm5dt9o3eQzzJuUp/90bnaewf
+4kxeT79RlN+hUaNG5bh0UsR6uI5yz2slL0eSJA0scsCGctloOCD2adbnSN1F
+ebzMnVTvIcZolher7uH70yyulSRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+kiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJ
+6qSvv/46Pfnkk/nnH374oeFrR48enc4666z8uPjii9OECRNaep8kTU7imvfl
+l1+mF154If3nP//p8hZJkiR1V5SPnnjiiXTvvffmn7///vu6r//Xv/6Vjjrq
+qPTiiy+mp59+Ov//zTffDMq2SlKvievl5Zdfnt555538s3VtkiRpuIqy0YUX
+Xpi++uqrpq//5z//mU455ZQ+75Wk4Squg48++miljs74UpIkDUdRBvrHP/6R
+rr/++pbKRMaXkjSxf//73+ncc8/t9mZIkiR1TfQVuvHGG9Njjz2Wf24WYxpf
+SlJtV155ZXrvvffyz7ZhSpKk4Sbiw2uuuSaNGzeuz3P1tBtfEsNSr1+93urn
+NHxxjlSPi+I5oqEkYknq6W666ab8s2P9SJKk4STKQ5999lkel+LTTz/t83w9
+rcSX5TL23nvvtMgii+RxgeL5W265JY0YMSKPudjKOjX5iWPO2FCbbbZZWmWV
+VfLvEVNecMEFab755uva9kntiPP5pZdeSn/605/yz9aPSJKk4STKQy+//HK6
+5JJL+jzXSLvx5X777Zemm2669Ne//rXynPGlyvhy6623TrPOOmslRxvGlxpK
+4nxm/NiLLrqouxsjSZLUBREbMudlO/Xt7caXBxxwQJpiiinSHnvsUXnO+FJx
+zGnX3mGHHdL//M//pOOPP77y9/PPP9/4UkNGnM+ff/55ji8/+eSTPs9LkiRN
+7qLcw5j6F198cf65E/HlPvvsk5ZYYom08sor5/nHQf+kMr4E7VjXXXddfv3v
+fve79P777/dZB9t5xx135D5NN998c9prr71yuyvxSawz1vvQQw+lQw45JB1x
+xBF5Xk+1JvY1+++ee+7Jbc6HHXZY+vDDD3PbIrnOf//73/u8tr/K+HK77bbL
+58i6666b3n333fz8eeedN1F8yfly2WWX5e1gnM7qnG62+cEHH0zfffdd7lO8
+5557ptGjR1f6wZXnJefSgQcemI477rg8h2v136X+4Fzjevrqq6/m3x0DTZIk
+DRdRlr777rtzGRytjEfRbny522675RzZpZZaKuc8gvFqy/iS5RBXzjTTTGne
+eedNs88+e1phhRXSK6+8UlnOb3/727TVVlulww8/PL+O2GP66adPp59+ep9t
++cMf/pBmm222NM888+TH3HPPnW677baG26sfRf3CiSeemBZaaKG0+OKL5325
+xRZbpLXXXjtNPfXUaaeddqq8blLisTI/luNKfcDCCy+czw0QP5bxJefdNtts
+k2aeeeZ8jpBPSzz6wQcfVF7DeTZy5Mhc9zDjjDPm9/M//YsRx/+kk05Ks8wy
+S/77XHPNlddL/UX5GqldcU4TXz711FP5Z88nSZI0XERZiPJ89I3sRHy56667
+poMPPjjHLBtssEF+jniP+PKLL76o/E6sePTRR6dvv/023XrrrWmOOebok1N7
+1llnpZ///OdpxRVXzG2SDzzwQFpuueXS8ssvn7766qv8mtdffz3HprRbEbcQ
+v2644YZpnXXWGZCYaHIX+4j4a9ppp02XXnppbt+baqqpcnsizy+77LK5PRNx
+/Mt5VGnvPOGEE/L7yHflmJ5zzjmVYx2vLePLTTfdNJ188sk5l5pcWVT3v6Td
+km1iWWwn80BwDrGuwLqnnHLKtN566+VxVsjDZmwpzoFAOyznGtsH4lPOI+Lm
+2C7PEfVHfB/IqyAHoHxOkiRpuLj22mvTfffdl3/uRHz5m9/8JuchPvfcc7kt
+ifxH2kxnmGGG3FcJm2yySVpttdUqcSKOPfbYHBtE7iI5s7yf5YSzzz47jx0U
+fZ3Ih11mmWUq88/h+uuvT/PPP396/PHHW/6Mw1XEl0cddVRubwZt27Qlc6we
+fvjhHL8Tu6E6vvzoo49y+zFxKWVs/qdvL8eA86Z8bfxPfQLxH+3Q9957b25X
+5BjxPtopA3Et7Zfl8aNtnPqFyKXef//983sYYyVQt0Ebdqxvl112yfUNEe+C
+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
+fpbuvffe/PukXmM6GV/SJvq3v/0t3X777emNN97os9xDDjkk10nON998afnl
+l885MK+//nq/1/3ss8+mV199dcC2vb9i3RMmTEgPPfRQ0/iZ84P6yLvvvjuP
+LdAp1JtyHB5++OGJ/hbb/I9//CNvCw+2v/xbPcaXkqRO2X///dO8886bdt11
+1/w797FFF100LbbYYuntt9+uvI76asrb++23Xzr44IPT2LFjK3/74osv0rnn
+npvefPPN/HuUz/n/pptuyu2DOOmkk9Iaa6yR74Xc0yiX3HrrrTW365FHHkmH
+H354Ouywwyrrqm4LgPHl8NLp+LIsY66zzjr5u3DVVVelO+64I/3xj3/s85rh
+psxF5+d2VOeisz/Hjx/f52/dFNvA957rAG3Wk7IczpUpp5wyXXHFFZW/HXPM
+MemnP/1pT8eX8R3hO7buuuumPfbYI9122219lkud5IILLpjvBWuuuWaabbbZ
+0rLLLptefvnlPsto1c4775yOPPLIfr13IMW6iasXX3zxuudn/D569Ohc58T9
+MK5JnTiXzznnnDRy5Mi03nrr1RwrAffdd18lB+eee+7JzzU7v4wvJUmdstde
+e6WNNtoobbjhhrksfuqpp+Yyw0orrVSpk+Z/clApR9BXkzYd/o9c0q+++iot
+ueSSOX5E3KOIT5deeul06aWX5t9ZNvft1VdfPbeP0i7E/9T1I+53o0aNSrPP
+PnuuH+c1c845ZyXui/up8eXw1On4Ml7z/PPP5xzxiDN6IQbqlvjs1BVxHSC+
++Pvf/97nb83EfiXPmPdTDp4cy7Rl+yV5IdShBeKDXm+/jOPE8Y3refXy+Eyb
+bLJJ5fcbb7wxf1do1+yPLbbYIh111FF91t8NsW72569+9aum8SXXhssvvzz/
+3OlzmHXutttu+V5bS6z/7LPPzsejlW0yvpQkdQrtltQdU24k/4Z4kzZN4sJo
+j3zmmWfSUkstleviKa+T87XIIoukrbbaqrKcY489Ntdhl+PO0k5BuSPaQX//
++9/nvKoNNtggl99fe+21tMIKK6QVV1wxffrpp/k11IHTdrrjjjvme+nXX3+d
+tt122xzvxr2Ve63xZXdxTD/77LP882DGXp2OL+O4034+xRRTpJdeeqnl906u
+yr7OF110Uf55Ur9rF1xwQW7/mZRlxTEhl5E2G8rI5DvQtkp/cvpRRhxc6/jF
+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
+NIsvy77o9PGmzyo5EdRDRW5GXNvop95oXNVqteLL2B7aX6m/7MT4quWy6IsQ
+dXnNrtH8ne8gdcf0b2jlPZIkNVLGl4zLEvWczCURY7HQt46+OOQrxhia8R76
+o9LWxXid5Vx3xBXc2+mDx32rel47yvMxzzqI66gnZ+xK2sZozyjbulpVzjPK
+HBWMxci8lNRL025RfuZqUS4gToh2VePLH8V+JceNeSSjnsF6bkm9ptX4knqg
+ci5TYs14Pfc85mblf8ZnCrShkttNTgyxYtlvhj6kPEeeB3WqzNVbbg/twmXe
+BXVl3Pe4x3LPYd3lGNutKvNiqU9lrAjyYlkuY0Kh2X2P11aPSyxJUn+U8SXj
+e3Kf4h7FGJ7kzNLew1wEjHFEP6nImwX954jfGGN/ueWWS2ussUblb8wjRxso
+OZHkwDFnHOrFl6yLHChyWXnfmmuumZZccslK20arcUzZx4ptpv8Jn4syROTg
+1WtTMr5sjP3DsabOf7DWKUntaie+pC4VxGHcz4gliRO5f/Cgbzf9UQN9d8mz
+51pInxHm3gmMX03uNXm/zAnKNb3cnur4krEdmKeVeyf3Pf7n/VFX2+59j7pZ
+6v+471FfzH2PeYGqP3/J+FKSNNDiPkJ/EO6V1N/SH4a+USjHdmH+hxinB8yz
+zrwQvIb+isSEzAvOnA7kGcW9ivERaENEvfiS+JZ1k4O73nrr5XZR7tFRNmh3
+PjVw36R8QB+U+L0R48vmas37IEm9pNX4kniMuI57D/1xI5+1HKuamDHG0gX3
+xrXXXjv/TO4s9z3mlyG3h/tezI/NfKaMc11uT3V8yc/0F2c59JekrwDj8sRr
++nPfo+8A46q12sfD+FKSNNDK9j7aDhn3j36R1KFG/Bf3xur4kvybGOcf3CfJ
+HWI8FupQQ73+l2V8yfuIBcG9kdcxLmnMRd7O/c74UpKGr1bjS9r2aDPknsUc
+14xxF/kZ8Zrq+PLII4+s5OPwGvJjiMvoT0KuT+DeWN3/sjq+ZOwd5nDinrXZ
+Zpvl/5mvl/sj+nPfM76UJHVbdf/LGGeF+yLxJGJMlGbxJXNNjB07Nsdn/ByM
+L1tjfClJk67d/pdxz+A+VX2vahRfct0lLuS6Td+Rcr7fWuP7GF9KkoaDevEl
+cUvMc99q+yUxJWP9EM+RMxRj5HEv7mR8yRi0tLtWz21pfClJw09/40vGoYv5
+e1tpv4z4kv4l3IPo20HfTTCuXSfjy/Hjx+exrqvntjS+lCR1Wxlf0v+DMVYZ
+I5SxfBgHD622X2699db5fkkfPeZNYx7A559/Ps+LSO4RBjK+jPsiY84yhhBj
+1ZbrML6UpOGnnflJyG9lTB/GfGWuS8ZJR9z3msWX3K+4XzB/L/MbXXLJJXn+
+poUXXjjfA8vtGYj4MraduZ2573G/LtdhfClJ6ra4jxDXEAfOPvvsOTY87rjj
+Km2Z8ZqDDz64Mgc9quNLxiWImJH7Ovc+xuPbfvvtm8aX3J/L+JJ73siRIxvG
+l/Ecc3YxNkPMgR3lApbBNhlfStLw0Wp8yXV+oYUWyvcPxlxlPpF4b7QH7rPP
+PnmeklAdXzLWQIzRes4556Tpp58+9+nk3sPv5fY0ii+574H7ZaP4shwzYeaZ
+Z04XXXRR/j3ue9y3t9hiizw2bb1llIwvJUlDCXmr1fNSx72sjC+bxX3UxzLf
+InlHPPg55umMMsDxxx+f5/1qtjzu87GceLCNLMf4UpKGvmbxZSfRjlk9znas
+u4wvG12zuR+xjPI+Vd73ArHujTfe2GcdtRB7NrvvGV9KkoaqVuPLiBspJ5x7
+7rm5LZPx3nkwp2aZr8R48OQ4vfDCC/n3WvfGWB51vnvssUfad999c700uU/k
+/TIvSjC+lKShq5vxZS2txpdxn6INkjbS6vteOQ8nc0Zz33v99debLo95WBhP
+gfseD+57hx56aJ5XJRhfSpKGqrjPMg4Q85lE/ms783xVL2v//fev9BXtz3LK
+95H/S55SzGFmfClJQ0uvxpd33313vu8xLg/6c92O9xAvjho1qt/LKVGHS54v
+81cPxPIkSRrqyCOaHO6HxpeSNOl6Lb7shMnlvidJkjpnsOLLaKt95ZVXcr4V
+Y1PE2BCavJF3V+bE9ao4R+lzxpjWMfeQ1IrhEF9KkiQ1MxjxZbzu+uuvT3PN
+NVeaZ5558hiEa6+9dmW84P7mGKs3lcdz7733zmNlfvDBBxP9rVWcQ9RHlO/l
+Z8YeGahzJ2IB5l5gnofoW+25qVYYX0qSJHU+voyyOeMbMtcp4/FfddVVeayl
+mHdmqJTf2U72Ff2YGLMpypPtLoMx/G+//fbKeE6TozimH374YVpmmWXSAgss
+kN5///0+f2tnOcyBO+200+Y5/sLNN9+cfvazn+X5FjCpZflOxpe0iTJnEcf9
+jTfemOTlVSvzA/hu3XPPPZVxtIfK92uoM76UJEnqfHwZr3n++efTiBEjKmMR
+DqUybzm+IuMAMybF2WefXZkPoJ3Pwv4444wz8riMm2yySUe2txfEPqF8zXzv
+5RiU/VkOdRFTTjllnzkBjznmmPTTn/60p+PLcq7fddddN58/Mc7KQH4HYj1j
+xozJY3WuvPLKDce21sAzvpQkSep8fBnlq0ceeSRNMcUU6aWXXmr5vb0i4gA+
++9FHH53efvvtPs/3B7HqbrvtZvmzibL9cppppsmxU1hvvfV6vv2ynJf+pJNO
+muTlNROf4aijjkqPP/54n21QZxlfSpIkdS6+jDL0m2++ma677rp07LHHpumn
+nz6dfvrpeR5RymAff/xxn9f2qkbxZfyNuJkYqJzT9Isvvkjnn39+HisG5f7q
+xfgyto95fMivpIx82GGH5RxXcnrpR0mcVL62VM57R3vjJZdckh+cY2Xfy3jd
+p59+ml/HnLCcH0888USf5ZQ/0wZKju1aa62Vy/HMv7fSSivl/rzVc9red999
+eZ49lksObTzPsi699NI0duzYiT4D403FvEXEl4ssskiel4/387kvu+yyPu3V
+sV3MKUTceMABB+R5Buvt03rxJT+Tz3r11Vf32R7WzX6rntu+GePL7jG+lCRJ
++rFdKPq0DWR8GWUt8iJpd5pvvvlyLBCPOeecM8/VjckhviR+mnvuuXO5PhBL
+L7TQQmncuHH5916PL+OYnXjiiXm7F1988TTbbLOlLbbYIo/FNPXUU6eddtqp
+8rrq4xafZccdd0wzzjhjHseJfcLYPuRHl+tgHxIfsnz65PJafibOKpcd/zPv
+O/mla665Zo7liQFXW221tOKKK6Zbb701v+azzz7LecezzjprXi/LnGmmmXKM
+H/gsW2+9dZ9jwbhBG2ywQTr44IPz79F+yfrY9ljOgQcemP8e7yUm5XWcz/PP
+P38esyq+G7HdjeLL2F/0R55hhhly/0wwbi19lbfddtu2vxvGl91jfClJkvRj
+WSjajTrRfkkb1WuvvZb7zVGGpl2MMUiILaM9qNc1y4+N/+mTSRstbbZ87iWX
+XDIdcsgh+W/V5cxeji+JgxhLh7a+4447Lk011VS5/ZDnl1122dyeiXrHn/nS
+aX979dVXc0zG+D7Rfhmfl/1InUPkS3OObL/99hO1Lca+5Zyj7yLxITEofVjZ
+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
++efn2DfaMFuNU4wvuyOOD9c34ktJkqThpuwzyBwlxAPl8/W0G1+2ol58GdtC
+f7ty/E/Q/hRxAWPqxHwTzBtBmxMYa5TlEWNUL5O2M/IxI6agLM5rG8VMjcb3
+aVcvxpeDjeP64osv9pkbcyDQ/5IxfJqhPoF5NEOtcWs5x6iDaXSseQ2xd8yP
+U2pnfJ+BYHzZHeU41O3kg0iSJE1OotzJmKrjxo3r81w9gxlfxvO0SdHOFduI
+gw46KO2xxx657E97JO1GoC1rueWWy6+lPE/bEmODEsMw52LEmhdccEGfOU0Y
+L4b33Xvvvfkz1sqBNb4c+uKY0Y+SMX5vuOGG/HunYoFJjS/L+T85Xxhjl7Gj
+ePAz3wG+jxHbxucwvhxccZwYt5j2b/jdliRJw02Uf5gjIuZz6MX2S2IAcmsf
+fvjhynvIVST/khiB/2PMUOafZJ5Extk58cQTc9+4yI9lrJ1FFlkk99Gr1SeP
+Mjy5lTxo34y/lfEl5fZYV3/jS95HbufIkSMtgw4y2kwZf4W82NVWW63ldvv+
+KuNLcrfRn2POOUz/VPKV6a/Jg5/57jJ+VcSV0RZM303jy8FHLkXkUdv3UpIk
+DTdR/qE97vrrr+9I/8uB2D7aZmh7rB7znzL1Bx98MFHbE3+P+QOr8VrKf7Vy
+GcH4n+XYpuV28F7ai0aMGJHHeqmeS6MVbBt5ucS49fp7auDFPqb9mT6xCy64
+YJ85aDq9XvKAGeuJ407fyvJvAyFiVvqpzjPPPLkeJXKEjS8HB9eH6GstSZI0
+XEXZ88ILL+wzr0I93Ygvaadhfswvv/yyz/NSu+gfR9sf9QjSQIjrIDkg5NfD
+a5QkSRquohxE/l6UjRrFjYMZX4J2GcbWLMeAlaReEdckxkmL8bGNLyVJ0nBH
+vihzYaJR2YgxWemDSL7f008/nf+PMXI6uW2S1GviWkluBfP22J9akiSpfaNH
+j87zgPBgrJSYJ8Q6e0mSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS
+JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJElD0WeffZaeeeaZ/PP3339f93X/
++c9/0pVXXpnOOuusdOaZZ6bLL788ffnll/lvP/zww6BsqyRJQ9k333yTxo0b
+l/+XJGlyEjHhQw89lB5++OH8c6P48pNPPknHHHNMeu2119KTTz6ZXn755fTd
+d98NyrZKkjTUxT32hhtuSM8991yf5yRJmlycf/75uW2ymY8++iidccYZ+edW
+Xi9Jkv5XxJK0X956661d3hpJkgZOtF2++uqr6cYbb2zpPcaXkiRNmrj/Urf7
+z3/+s8tbI0nSwIj48Oqrr04vvPBC/rlZH8pJjS+pr73mmmvSo48+anwqSRqW
+og1z9OjRuZ8JHMNAkjTUxb1s1KhR6a233urzXD39iS/jPnrJJZek2WefPc07
+77xpxIgRaauttqqsb1Lvq//+978n2h7Wy/OS/I5IvSTueS+99FKu44V9MCVJ
+Q1nc2z788MN0xRVXVPJzBjq+jPvlu+++m1ZcccW09NJLpzFjxqSbbropjz1b
+vqaZ8ePHp7vuuivdeeed6f333688//XXX6cNN9wwrbXWWvn3GG+I7Vx44YVb
+WvZAin347LPPpjvuuCPdf//9luHVFXEu1vuOMAZ0N74jkn708ccf5+8hzOmR
+JA1lEdM98cQTOV8VrbQhthtfxmsefPDBNMMMM+R4q9V1hXgt76V8vP/++6ex
+Y8dW/k5svOmmm6Y555wzPfXUU5Xnux1fXnzxxWnPPfdMa6yxRpowYUKfv0mD
+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
+HdgurC+N6RzU3hBbT0wEa5oZYzqXgaYv2wHxs7YVjDGme7C+NKZzUP189913
+s8UXX7xXvoXeoPMxr5w1Ps4///we+TPGlKMb9KUxxpjuoi/0Jcfkj+M87kON
+qY40HGP/rI/NWhyiv/Wl2om33347Gz58eLbZZptVPuv0mA5j+hLrS2OMMYMN
++rELL7yw5foy+jfYJ2bdddetnA+uvvrqbIklluh1/o0ZrKguvvPOO2lf37iv
+Un/rS52P+nzcccelNiTm2RhTDutLY4wxgw36NvbIwoaFdujLPffcM+2tzHp0
+wvrSmNqoLr7++uvZoosumj377LOV7/pbXxpjWoP1pTHGmMEGfdvFF1+cvfXW
+W+n/duhL9nWZZZZZsokTJ1a+v+qqq6wvTdejekLsK3sB8FIcLHWR77E7F1hg
+geyWW25J+xdR51irH8158803p2P5HWtja99ffqe0v//++2zq1KnZnXfe2WOv
+O9YIot5TRz///POkVfmfWIZ4HGsI6bzi/fffzz799NP0nuM/+uijynfYxtOm
+TUu2stqVeK0//PBD2k+d6+J9/M6YbkP1ivp5zTXXpPfWl8YYYzoZbNhLL700
+e/PNNyv/16NRfbnXXntlq666apqjJTuU/bLy+hJ7l7XH2fPqggsuSHuDxjw9
+9thj6UXfi63NHqLsD6O+ONqoDz30UHb44YdnJ554YuXabMOagYTKI9pt7bXX
+TnpxscUWS+/xWQJ1c9iwYdmSSy6ZLbPMMtkcc8yRPfjgg2kfIz5jzf9NNtkk
+/W7++efPjjrqqB5pv/fee9kGG2yQ0l5kkUVSHdQeSMzpJG6dusjfhRdeOO0j
+MGLEiOzWW2+t5JN6xrnQlID+JR3W9YGNN94423///dN72oMjjzwy6eGll146
+5f3UU0+tpPXBBx9kG264YSU/5F061fXTdCPWl8YYYwYjV155ZdrrClqtL+kn
+d91112RzrrTSShV/C+dEX+q4X3/9tRJHi12K7Tlq1Ki0L7MgjXHjxqX9m7Ff
+sbexqUkr5v3ss89OtjLpYBez/sgTTzxR+vqM6Ssoj1tuuWXSh2eddVZ68X7M
+mDHp+1deeSX5/ynn7DF+7LHHpthYdBrlGv22xRZbZCeffHKqX8zTjPuQ77jj
+jqkeEI9+xRVXpJjaSZMmpe9efPHFbOWVV85WWGGFbP3118/OO++8pDmpM+QD
+0JLbbbddqpf3339/+ozzL7fccmksiPqLvtxvv/3Sdy+//HI233zzpbrMGA91
+/4ADDqjkhz1+l1pqqaRpFcOguAbrS9ONqA+96667smuvvTa9t740xhjT6TBm
+il0J7dCXO+20U7J/jz766GznnXdOn2PvYuvqfPgh55lnnpQuv5kyZUqyaWNM
+LXbxbLPNlnwn+Hzuu+++ZB+PHj26kg72OLY4a47w2ZdffpmNHDkyrTGUz5sx
+/YXK68MPP5z0mPb3AOrAQgstlN19993pf3z2s846a9KDgphUdBo69Jtvvkmf
+cfzMM89cmefMX7QqWk7gc1x++eXT+9deey3VQbQl8bFi9dVXr/gj0ZLrrLNO
+qousM610hwwZkr3xxhupLm200UYVfUmMLed8/vnn0/8//fRTJdaWNobzXXbZ
+ZZVzoZfRqsQ5GNONqC0gXpx+ELzvlzHGmE6HPo35UlCmX2tUX+6www7Zaaed
+luxS7Oaff/45+T6wNXUcGpDjop1JnOyaa66Zffzxx+n/Y445Jv0G340gno9Y
+O/0OXwkxd99++23lGPyb+GjYSwHswzT9jeoN9QJ9Fecpfvjhh8n/fvrpp6f/
+H3300Rn0pdb3ueGGGyqfkQa6DzsVqKPEun7xxReVY6gL+D35jDW9hg4dmvyW
+MU9oxU033TS9p86utdZaqW7iPwXGo9CQxK/zm+i/fOCBB7J55503u/zyy9P/
+1G/5YlhjdsUVV6zE5wJzNLl+1WmP/ZhuQ/2R5l+D9aUxxphORbYca22wNgi0
+Q1+OHTs2+ROJgUVHEgPE/C5sVEBv4lMhrhV+++239Jd4PGzol156Kf2P7wXt
+qHSBGDt8K/LhrLfeeimGljxibzPfk7gj4m21/qb7btPfqPyiy9ZYY41UB0D1
+hjhX6bnHH388rY9VpC+1fiww1xJtx9xkIF6AsRfGYPATnnTSSSleFn2J/x99
+SXzt7bffno7XGA3akBhZ6hRaEm2JBt1qq63SMdRlYgaop9TpqC+/+uqr5M9k
+HGmPPfaojOkA8Qec7/jjj6/kh9gG9OULL7yQjvHYj+k2VOfpE4lnAPdRxhhj
+OhXZcqwXonmR7dCX2JCstQPYvNirxL9iwwL+SfQlWhFk52IDzzXXXNkjjzyS
+/ieNvL4k39jQ2MLkBX2J74e0mdvFizhC5msSZ1j2Go1pJyqDxItTZoXqDTGq
+rIsFzB0uqy+JtdXaPPj/55577qTfmIPJfGXqA/M0i/SlxnUYhyHOljWGqK/o
+waeeeirVUXyr2267bXbooYemY1mTK67vA8z/3HrrrVO95LxKn/pLfY75oZ7i
+07S+NN0Oddn1wBhjTKejPoz4u0bmfTSjL7XWJHvEoxHxzbCmLDD3C9tV87Kk
+L+lrmUup+WS19KXWml1llVXSGiLYyPfee2+K1+OFL1THOAbP9DcqvwcddFDS
+ksxTjKC/NCZTNP+ylr7UWBFryTI/WfVJ5V5/mX9J3cn7LxnvQfddd9112eab
+b55i2ckfcQJoXfTgJZdcko5lfxHqZFw/VunfdtttSUuqnrOWM3HqcQ8VY8zv
+dY81CbS+uuuGMcaYTkX6Eru1kX3am9GX2jcBWI8Su5d1ReQzwWbVMbJzNTdL
++4sUxcdKX7KOD2AP77777jPkw5iBhOrNOeeck/zrigEHyjv+dsWLM/7DulZP
+P/105Zha+lLxsazHQ9qs6Qqq7/X0JevxsKYtY0CrrbZaZW42+5zgy6TusrYW
+FOnL+Jf5nowRsYcm9jP+U/tojOkJe9SyD7X6Q/dbxhhjOhX1Yaz1ga+CWLf4
+eTV6qy85F+uKYLvKpmX+Fnar9lZgXhd2K3au8sX+JPX0JTY1fhZscoG/xOPC
+ZiARx3Yor8xpFJo3qT118MVTX7Q3HtTSl/gNgfhW0mE/H4F21HpZeX1JnVL9
+oL6iBdGUpAsTJkxIMa2MC2leJelRJzX/krmiU6dOrZwPPyf6kn2GqNvkGZ+t
+wC8a9yAyphuh/8qvs2WMMcZ0KrIn8RUytyp+Vo3e6kvsW9YYQU9KJ+JjYS4Y
+tip7NWy//fbJ7o7rY5JGNX3JuiLKG/vT47c55ZRT0pxOfJr4TB2XZwYizLPE
+X8m6VHofffCsrcoaQMybZC9MYswZL6HcF+nLqO/Qcqz5w/48+EqZ68melMCe
+t3l9qXrFXpkzzTRTWg9IsbsXXXRR9oc//CHVJa1HxNgPdXL8+PGVa2H+M/5M
+1vChnjM/U34ZfKJoZWLYyQ/6VXsWuV6abkNlnvEa1WX79Y0xxnQ60of0baz5
+Aa3Wl9iS0pf6nLVH8IXEc7GvAvGw+E3wc2i/PZ0Dvw62qtKF/PxLYG9A9lfg
+c9JCx8rmtg1rBgoqi5RddBzjK5RZ1r9SeZatedZZZ6U1kNGK7POBvqRss06W
+KNKXaMO99947pc3xxKHLjmX/SuqZ9kSgTqmusY4lOvDAAw+spMUa07PPPnva
+A0h5I85g1KhRleM+/fTTpBdZG5oX86FZG0igS9Giyg/zMZnfGe+HMd2C6jcx
+7ay3Ba4HxhhjOh31ZWgy9ikpQxl92Sz4GInrYz5KzF8z4Pehz3Z/bToBYl55
+VQP9iM9RYyuNgO5DT8b9ZduB6hrzLYlJkJ8zD3tgUs/l1zSmG1F9Ye6l5oEY
+Y4wxgwn6uFatH2uMMcaYYuS7ZD2vu+++u59zY4wxxrQWjaGynohi2WrNAbG+
+NMYYY5pHfSzzn/Hlx8+MMcaYwcJ3332X4u+gVj/H3LBJkyaleD32VSAGtd1x
+d8YYY8xggvnL+C/5a4wxxnQz+CxZk2Py5MlpTfVrr7027VMAnutojDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOM
+McYYY4wxxhhjjDHGGGMa4f8BnbYAcw==
+    "], {{0, 460.}, {920., 0}}, {0, 255},
+    ColorFunction->RGBColor],
+   BoxForm`ImageTag[
+   "Byte", ColorSpace -> "RGB", Interleaving -> True, 
+    MetaInformation -> <|"XMP" -> <||>|>],
+   Selectable->False],
+  DefaultBaseStyle->"ImageGraphics",
+  ImageSizeRaw->{920., 460.},
+  PlotRange->{{0, 920.}, {0, 460.}}]], "Input",
  TaggingRules->{},
+ CellChangeTimes->{3.891248470041091*^9, 3.891250175007868*^9, 
+  3.891251005122435*^9},
  CellTags->"DefaultContent",
  CellID->445097320,ExpressionUUID->"faa7b82c-84db-4281-85fb-0903fc9fb7d7"]
 }, Open  ]],
@@ -1000,11 +1963,15 @@ text that users will see when visiting the main landing page of your paclet.",
  CellID->433339604,ExpressionUUID->"8e3dac76-af11-408f-b4fe-6da63e274486"],
 
 Cell["\<\
-Functions for making software monads. (Like \"state monad\" or \"monad \
-tracer.\")\
+Functions for making software monads. Monad programming provides an interface \
+design method that allows interactive, dynamic creation and change of \
+sequentially structured computations with polymorphic and context-aware \
+behavior.\
 \>", "Text",
  TaggingRules->{},
- CellChangeTimes->{{3.8912218278632717`*^9, 3.891221886391549*^9}},
+ CellChangeTimes->{{3.8912218278632717`*^9, 3.891221886391549*^9}, {
+  3.891247783075705*^9, 3.891247784001788*^9}, {3.8912490384972878`*^9, 
+  3.891249048247726*^9}},
  CellTags->"DefaultContent",
  CellID->441612482,ExpressionUUID->"a7634590-4daf-4a36-97a6-01fb17b9bacf"]
 }, Open  ]],
@@ -1042,6 +2009,16 @@ examples on the webpage for the resource.", "MoreInfoText"], Background ->
  CellTags->{"Details", "TemplateCellGroup"},
  CellID->484110581,ExpressionUUID->"3c7e279c-ce19-42e1-b8ee-a6e8a35538ba"],
 
+Cell["\<\
+In this paclet the concept \"software monad\" is seen as a design pattern, \
+suitable for building rapid, dynamic computation workflows building.\
+\>", "Notes",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891248601431382*^9, 3.891248660039365*^9}, {
+  3.891250306741749*^9, 3.891250310639593*^9}, {3.891250403264124*^9, 
+  3.891250415152328*^9}},
+ CellID->908312169,ExpressionUUID->"bdcda197-715c-4b1e-96cf-ee9d5fa43fd1"],
+
 Cell[TextData[{
  "WL code of software monads can be generated (and evaluated) with ",
  Cell[BoxData[
@@ -1053,7 +2030,8 @@ Cell[TextData[{
 }], "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891225179436418*^9, 3.89122524623073*^9}, {
-  3.891225288453198*^9, 3.891225294835527*^9}},
+  3.891225288453198*^9, 3.891225294835527*^9}, {3.891248598534446*^9, 
+  3.8912485998396873`*^9}},
  CellID->1557618001,ExpressionUUID->"59ea40e7-39f8-4b52-a36c-099033641e22"],
 
 Cell["\<\
@@ -1108,7 +2086,27 @@ Cell["The generated monads adhere to the monad axioms.", "Notes",
   3.89122517481532*^9, 3.891225177660417*^9}, {3.891225304877701*^9, 
   3.891225308960178*^9}},
  CellTags->"DefaultContent",
- CellID->889292814,ExpressionUUID->"5caa95e3-a731-4cfa-98bc-e645c97d2733"]
+ CellID->889292814,ExpressionUUID->"5caa95e3-a731-4cfa-98bc-e645c97d2733"],
+
+Cell["\<\
+We do not deal with types for monads explicitly, we generate code for monads \
+instead.\
+\>", "Notes",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891248047320163*^9, 3.891248079482362*^9}, 
+   3.891250344058113*^9},
+ CellID->2124269077,ExpressionUUID->"0fbb0d3a-0e8a-42d1-978d-f448afab8156"],
+
+Cell["\<\
+One reason for this is that in WL the notion of algebraic data type is not \
+needed -- pattern matching can be used instead. (And pattern matching comes \
+from WL's core \"book of replacement rules\" principle.)\
+\>", "Notes",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891248047320163*^9, 3.891248077828915*^9}, {
+  3.891248114908949*^9, 3.8912481278678617`*^9}, {3.8912481665717773`*^9, 
+  3.891248207631051*^9}, {3.8912503670981483`*^9, 3.891250367205531*^9}},
+ CellID->1446090961,ExpressionUUID->"28e967c2-b2d4-4041-ba2f-d10186732079"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1145,7 +2143,9 @@ general overview of your paclet.", "MoreInfoText"], Background ->
 Cell[BoxData[
  TemplateBox[{},
   "MainGuideChooserTemplate"]], "MainGuideChooser",
- TaggingRules->{"Refreshing" -> False, "Relative" -> True},
+ TaggingRules->{
+  "Refreshing" -> False, "Relative" -> True, "MainGuidePageString" -> 
+   "Documentation/English/Guides/Monadmaking.nb"},
  CellTags->"MainGuidePagePanel",
  CellID->614786987,ExpressionUUID->"dca9a2e6-bbc8-44c1-a497-4303aa1244c8"]
 }, Open  ]]
@@ -1241,7 +2241,7 @@ Cell[BoxData[
    RowBox[{"NotebookDirectory", "[", "]"}], "]"}], ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[3]:=",
+ CellLabel->"In[32]:=",
  CellID->996717066,ExpressionUUID->"32edca4c-218e-48d2-9cf1-85e4c1370697"],
 
 Cell[BoxData[
@@ -1250,7 +2250,7 @@ Cell[BoxData[
   ";"}]], "Input", "Excluded",
  TaggingRules->{},
  InitializationCell->True,
- CellLabel->"In[4]:=",
+ CellLabel->"In[33]:=",
  CellID->172764492,ExpressionUUID->"fde2a68b-a925-432d-8cfe-439b0133ea7c"]
 }, Open  ]],
 
@@ -1464,12 +2464,14 @@ Cell[BoxData[
  CellID->369727804,ExpressionUUID->"b6d34f89-51ea-4be8-971d-c59fe666092c"],
 
 Cell["\<\
-Make a pipeline with the monad tracer that show monadic pipeline value \
-changes and tabulates the operations:\
+Make a monadic pipeline with the monad tracer that shows the changes of \
+pipeline's value and tabulates pipeline's operations with corresponding \
+descriptions:\
 \>", "Text",
  TaggingRules->{},
  CellChangeTimes->{{3.89122612497563*^9, 3.891226185983246*^9}, {
-  3.891226364846184*^9, 3.8912263665330057`*^9}},
+  3.891226364846184*^9, 3.8912263665330057`*^9}, {3.8912478965595503`*^9, 
+  3.8912479671727457`*^9}},
  CellID->595263065,ExpressionUUID->"b682624d-3580-4d1e-983b-a985e23274f5"],
 
 Cell[CellGroupData[{
@@ -1509,15 +2511,44 @@ Cell[BoxData[{
    "\[DoubleLongRightArrow]", "\[IndentingNewLine]", "PerhapsEcho", 
    "\[DoubleLongRightArrow]", "\"\<display current value again\>\"", 
    "\[DoubleLongRightArrow]", "\[IndentingNewLine]", 
-   RowBox[{"TraceMonadEchoGrid", "[", "Grid87", "]"}]}], ";"}]}], "Input",
+   RowBox[{"TraceMonadEchoGrid", "[", 
+    RowBox[{
+     RowBox[{"Grid", "[", 
+      RowBox[{"#", ",", 
+       InterpretationBox[
+        DynamicModuleBox[{Typeset`open = False}, 
+         TemplateBox[{"Expression", "SequenceIcon", 
+           GridBox[{{
+              RowBox[{
+                TagBox["\"Head: \"", "IconizedLabel"], "\[InvisibleSpace]", 
+                TagBox["Sequence", "IconizedItem"]}]}, {
+              RowBox[{
+                TagBox["\"Length: \"", "IconizedLabel"], "\[InvisibleSpace]", 
+                
+                TagBox["3", "IconizedItem"]}]}, {
+              RowBox[{
+                TagBox["\"Byte count: \"", "IconizedLabel"], 
+                "\[InvisibleSpace]", 
+                TagBox["296", "IconizedItem"]}]}}, 
+            GridBoxAlignment -> {"Columns" -> {{Left}}}, DefaultBaseStyle -> 
+            "Column", 
+            GridBoxItemSize -> {
+             "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
+           Dynamic[Typeset`open]},
+          "IconizedObject"]],
+        Sequence[
+        Dividers -> All, FrameStyle -> GrayLevel[0.7], Alignment -> Left],
+        SelectWithContents->True,
+        Selectable->False]}], "]"}], "&"}], "]"}]}], ";"}]}], "Input",
  TaggingRules->{},
  CellChangeTimes->{{3.706485998947001*^9, 3.7064860010717373`*^9}, {
    3.706486064398326*^9, 3.706486094974123*^9}, {3.706486214917356*^9, 
    3.706486266064026*^9}, 3.891224557027028*^9, {3.89122502879391*^9, 
    3.891225029500325*^9}, {3.89122602279135*^9, 3.8912260623284388`*^9}, 
    3.891226119165053*^9, {3.8912263795615*^9, 3.89122645086477*^9}, {
-   3.8912266159246387`*^9, 3.891226670666889*^9}},
- CellLabel->"In[21]:=",
+   3.8912266159246387`*^9, 3.891226670666889*^9}, {3.891247805896381*^9, 
+   3.891247880165697*^9}},
+ CellLabel->"In[42]:=",
  CellID->1345011057,ExpressionUUID->"597daf6f-34da-41a3-9f2b-b1fe56aec080"],
 
 Cell[CellGroupData[{
@@ -1543,8 +2574,8 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{"{", "}"}], "}"}]}]}], "\[RightAssociation]"}]}]], "Echo",
  TaggingRules->{},
- CellChangeTimes->{3.891226671529512*^9},
- CellID->2106142489,ExpressionUUID->"d611e2f6-759d-4dc6-89a1-2a0959cb76e5"],
+ CellChangeTimes->{3.891247882647328*^9},
+ CellID->802480852,ExpressionUUID->"44e422c0-d327-4b4a-a880-983e703e2a15"],
 
 Cell[BoxData[
  TagBox[
@@ -1558,8 +2589,8 @@ Cell[BoxData[
     RowBox[{"\[LeftAssociation]", "\[RightAssociation]"}]}], "]"}],
   Short]], "Echo",
  TaggingRules->{},
- CellChangeTimes->{3.891226671548922*^9},
- CellID->963859122,ExpressionUUID->"636e85cd-2119-435a-9fb6-6d9e1f738669"],
+ CellChangeTimes->{3.89124788267034*^9},
+ CellID->1098376404,ExpressionUUID->"8b734665-17b8-4b53-9611-9638aca4af39"],
 
 Cell[BoxData[
  StyleBox[
@@ -1575,8 +2606,8 @@ Cell[BoxData[
   GraphicsColor->RGBColor[1, 0, 0],
   FontColor->RGBColor[1, 0, 0]]], "Echo",
  TaggingRules->{},
- CellChangeTimes->{3.891226671561187*^9},
- CellID->1111114133,ExpressionUUID->"721b3cde-3593-4ac1-a561-5a7c01250109"],
+ CellChangeTimes->{3.891247882684366*^9},
+ CellID->642792416,ExpressionUUID->"e93a6bdd-eac9-407d-b86a-e191a918b605"],
 
 Cell[BoxData[
  TagBox[
@@ -1598,132 +2629,183 @@ Cell[BoxData[
     RowBox[{"\[LeftAssociation]", "\[RightAssociation]"}]}], "]"}],
   Short]], "Echo",
  TaggingRules->{},
- CellChangeTimes->{3.891226671586968*^9},
- CellID->2124922666,ExpressionUUID->"7f053841-9539-4822-ab30-70e73e5893c9"],
+ CellChangeTimes->{3.891247882707823*^9},
+ CellID->1569391302,ExpressionUUID->"1c59785e-f591-4703-8974-4c0239500b4b"],
 
 Cell[BoxData[
- FrameBox[
-  TagBox[GridBox[{
-     {
-      TemplateBox[{
-        StyleBox[
-         TagBox[
-          RowBox[{"PerhapsUnit", "[", 
-            RowBox[{"RandomInteger", "[", 
-              RowBox[{"10", ",", "15"}], "]"}], "]"}], HoldForm], "Input", 
-         StripOnInput -> False], 
-        StyleBox[
-        "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
-         False]},
-       "RowDefault"], 
-      StyleBox["\<\"lift to monad\"\>",
-       StripOnInput->False,
-       ShowAutoStyles->False,
-       ShowSyntaxStyles->False,
-       TranslationOptions->{"Enabled"->False},
-       AutoNumberFormatting->False,
-       FontWeight->Plain,
-       FontColor->RGBColor[0.27, 0.58, 0.68]]},
-     {
-      TemplateBox[{"\"  \"", 
-        StyleBox[
-         TagBox["PerhapsEcho", HoldForm], "Input", StripOnInput -> False], 
-        StyleBox[
-        "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
-         False]},
-       "RowDefault"], 
-      StyleBox["\<\"display current value\"\>",
-       StripOnInput->False,
-       ShowAutoStyles->False,
-       ShowSyntaxStyles->False,
-       TranslationOptions->{"Enabled"->False},
-       AutoNumberFormatting->False,
-       FontWeight->Plain,
-       FontColor->RGBColor[0.27, 0.58, 0.68]]},
-     {
-      TemplateBox[{"\"  \"", 
-        StyleBox[
-         TagBox[
-          RowBox[{"PerhapsWhen", "[", 
-            RowBox[{
-              RowBox[{
-                RowBox[{
-                  
-                  RowBox[{
-                   "#1", "\[LeftDoubleBracket]", "3", 
-                    "\[RightDoubleBracket]"}], ">", "3"}], "&"}], ",", 
-              RowBox[{"PerhapsEchoFunctionValue", "[", 
-                RowBox[{
-                  RowBox[{"Style", "[", 
-                    RowBox[{"#1", ",", "Red"}], "]"}], "&"}], "]"}]}], "]"}], 
-          HoldForm], "Input", StripOnInput -> False], 
-        StyleBox[
-        "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
-         False]},
-       "RowDefault"], 
-      StyleBox["\<\"display pipeline's value if the 3d element is greater \
-than 3\"\>",
-       StripOnInput->False,
-       ShowAutoStyles->False,
-       ShowSyntaxStyles->False,
-       TranslationOptions->{"Enabled"->False},
-       AutoNumberFormatting->False,
-       FontWeight->Plain,
-       FontColor->RGBColor[0.27, 0.58, 0.68]]},
-     {
-      TemplateBox[{"\"  \"", 
-        StyleBox[
-         TagBox[
-          RowBox[{
-            RowBox[{"PerhapsUnit", "[", 
-              FractionBox["#1", "4"], "]"}], "&"}], HoldForm], "Input", 
-         StripOnInput -> False], 
-        StyleBox[
-        "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
-         False]},
-       "RowDefault"], 
-      StyleBox["\<\"replace the pipeline object\"\>",
-       StripOnInput->False,
-       ShowAutoStyles->False,
-       ShowSyntaxStyles->False,
-       TranslationOptions->{"Enabled"->False},
-       AutoNumberFormatting->False,
-       FontWeight->Plain,
-       FontColor->RGBColor[0.27, 0.58, 0.68]]},
-     {
-      TemplateBox[{"\"  \"", 
-        StyleBox[
-         TagBox["PerhapsEcho", HoldForm], "Input", StripOnInput -> False]},
-       "RowDefault"], 
-      StyleBox["\<\"display current value again\"\>",
-       StripOnInput->False,
-       ShowAutoStyles->False,
-       ShowSyntaxStyles->False,
-       TranslationOptions->{"Enabled"->False},
-       AutoNumberFormatting->False,
-       FontWeight->Plain,
-       FontColor->RGBColor[0.27, 0.58, 0.68]]}
-    },
-    AutoDelete->False,
-    FrameStyle->Directive[
-      Dashing[2], 
-      GrayLevel[0.87]],
-    GridBoxAlignment->{"Columns" -> {{Left}}},
-    GridBoxDividers->{"Columns" -> {{True}}, "Rows" -> {{True}}},
-    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
-   "Grid"],
-  StripOnInput->False]], "Echo",
+ TagBox[GridBox[{
+    {
+     TemplateBox[{
+       StyleBox[
+        TagBox[
+         RowBox[{"PerhapsUnit", "[", 
+           RowBox[{"RandomInteger", "[", 
+             RowBox[{"10", ",", "15"}], "]"}], "]"}], HoldForm], "Input", 
+        StripOnInput -> False], 
+       StyleBox[
+       "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
+        False]},
+      "RowDefault"], 
+     StyleBox["\<\"lift to monad\"\>",
+      StripOnInput->False,
+      ShowAutoStyles->False,
+      ShowSyntaxStyles->False,
+      TranslationOptions->{"Enabled"->False},
+      AutoNumberFormatting->False,
+      FontWeight->Plain,
+      FontColor->RGBColor[0.27, 0.58, 0.68]]},
+    {
+     TemplateBox[{"\"  \"", 
+       StyleBox[
+        TagBox["PerhapsEcho", HoldForm], "Input", StripOnInput -> False], 
+       StyleBox[
+       "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
+        False]},
+      "RowDefault"], 
+     StyleBox["\<\"display current value\"\>",
+      StripOnInput->False,
+      ShowAutoStyles->False,
+      ShowSyntaxStyles->False,
+      TranslationOptions->{"Enabled"->False},
+      AutoNumberFormatting->False,
+      FontWeight->Plain,
+      FontColor->RGBColor[0.27, 0.58, 0.68]]},
+    {
+     TemplateBox[{"\"  \"", 
+       StyleBox[
+        TagBox[
+         RowBox[{"PerhapsWhen", "[", 
+           RowBox[{
+             RowBox[{
+               RowBox[{
+                 
+                 RowBox[{
+                  "#1", "\[LeftDoubleBracket]", "3", 
+                   "\[RightDoubleBracket]"}], ">", "3"}], "&"}], ",", 
+             RowBox[{"PerhapsEchoFunctionValue", "[", 
+               RowBox[{
+                 RowBox[{"Style", "[", 
+                   RowBox[{"#1", ",", "Red"}], "]"}], "&"}], "]"}]}], "]"}], 
+         HoldForm], "Input", StripOnInput -> False], 
+       StyleBox[
+       "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
+        False]},
+      "RowDefault"], 
+     StyleBox["\<\"display pipeline's value if the 3d element is greater than \
+3\"\>",
+      StripOnInput->False,
+      ShowAutoStyles->False,
+      ShowSyntaxStyles->False,
+      TranslationOptions->{"Enabled"->False},
+      AutoNumberFormatting->False,
+      FontWeight->Plain,
+      FontColor->RGBColor[0.27, 0.58, 0.68]]},
+    {
+     TemplateBox[{"\"  \"", 
+       StyleBox[
+        TagBox[
+         RowBox[{
+           RowBox[{"PerhapsUnit", "[", 
+             FractionBox["#1", "4"], "]"}], "&"}], HoldForm], "Input", 
+        StripOnInput -> False], 
+       StyleBox[
+       "\"\[ThinSpace]\[DoubleLongRightArrow]\"", "Input", StripOnInput -> 
+        False]},
+      "RowDefault"], 
+     StyleBox["\<\"replace the pipeline object\"\>",
+      StripOnInput->False,
+      ShowAutoStyles->False,
+      ShowSyntaxStyles->False,
+      TranslationOptions->{"Enabled"->False},
+      AutoNumberFormatting->False,
+      FontWeight->Plain,
+      FontColor->RGBColor[0.27, 0.58, 0.68]]},
+    {
+     TemplateBox[{"\"  \"", 
+       StyleBox[
+        TagBox["PerhapsEcho", HoldForm], "Input", StripOnInput -> False]},
+      "RowDefault"], 
+     StyleBox["\<\"display current value again\"\>",
+      StripOnInput->False,
+      ShowAutoStyles->False,
+      ShowSyntaxStyles->False,
+      TranslationOptions->{"Enabled"->False},
+      AutoNumberFormatting->False,
+      FontWeight->Plain,
+      FontColor->RGBColor[0.27, 0.58, 0.68]]}
+   },
+   AutoDelete->False,
+   FrameStyle->GrayLevel[0.7],
+   GridBoxAlignment->{"Columns" -> {{Left}}},
+   GridBoxDividers->{"Columns" -> {{True}}, "Rows" -> {{True}}},
+   GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
+  "Grid"]], "Echo",
  TaggingRules->{},
- CellChangeTimes->{3.89122667161339*^9},
- CellID->922197852,ExpressionUUID->"96772ef8-5c81-48da-8373-b5a87176ff52"]
+ CellChangeTimes->{3.891247882736659*^9},
+ CellID->1365460260,ExpressionUUID->"b1ce6ef3-60af-4995-be44-015138698486"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
 
+Cell[CellGroupData[{
+
 Cell["Scope", "Subsection",
  TaggingRules->{},
- CellID->964056545,ExpressionUUID->"2e87d631-5931-4f45-9af2-f89fa75a50a2"]
+ CellID->964056545,ExpressionUUID->"2e87d631-5931-4f45-9af2-f89fa75a50a2"],
+
+Cell["Here we generate a monad with prefix \"Maybe\":", "Text",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891228112478652*^9, 3.89122813488792*^9}},
+ CellID->766482134,ExpressionUUID->"e39e9f07-9576-4722-880e-ecfe505b127f"],
+
+Cell[BoxData[
+ RowBox[{"GenerateStateMonadCode", "[", "\"\<Maybe\>\"", "]"}]], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.8912281092914753`*^9, 3.891228147667519*^9}},
+ CellLabel->"In[25]:=",
+ CellID->1115587427,ExpressionUUID->"5d80f2bf-d633-4fe8-bd46-d3167944c3f6"],
+
+Cell["The command above defined these functions:", "Text",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891228152954927*^9, 3.891228185781646*^9}, {
+  3.89122822745896*^9, 3.891228243427198*^9}},
+ CellID->1726985693,ExpressionUUID->"818eea49-93c0-49ba-b83f-1e838dd473eb"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Names", "[", "\"\<Maybe*\>\"", "]"}]], "Input",
+ TaggingRules->{},
+ CellChangeTimes->{{3.8912281951938667`*^9, 3.891228205291644*^9}},
+ CellLabel->"In[26]:=",
+ CellID->729743644,ExpressionUUID->"1835c6fe-eb6d-4720-8e2e-9b593e021ca1"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"Maybe\"\>", ",", "\<\"MaybeAddToContext\"\>", 
+   ",", "\<\"MaybeAssignContextTo\"\>", ",", "\<\"MaybeAssignTo\"\>", 
+   ",", "\<\"MaybeAssignValueTo\"\>", ",", "\<\"MaybeBind\"\>", 
+   ",", "\<\"MaybeContexts\"\>", ",", "\<\"MaybeDropFromContext\"\>", 
+   ",", "\<\"MaybeEcho\"\>", ",", "\<\"MaybeEchoContext\"\>", 
+   ",", "\<\"MaybeEchoFunctionContext\"\>", 
+   ",", "\<\"MaybeEchoFunctionValue\"\>", ",", "\<\"MaybeEchoValue\"\>", 
+   ",", "\<\"MaybeFail\"\>", ",", "\<\"MaybeFold\"\>", ",", "\<\"MaybeIf\"\>",
+    ",", "\<\"MaybeIfElse\"\>", ",", "\<\"MaybeIterate\"\>", 
+   ",", "\<\"MaybeModifyContext\"\>", ",", "\<\"MaybeModule\"\>", 
+   ",", "\<\"MaybeNest\"\>", ",", "\<\"MaybeNestWhile\"\>", 
+   ",", "\<\"MaybeOption\"\>", ",", "\<\"MaybePutContext\"\>", 
+   ",", "\<\"MaybePutValue\"\>", ",", "\<\"MaybeRetrieveFromContext\"\>", 
+   ",", "\<\"MaybeSetContext\"\>", ",", "\<\"MaybeSetValue\"\>", 
+   ",", "\<\"MaybeSucceed\"\>", ",", "\<\"MaybeTakeContext\"\>", 
+   ",", "\<\"MaybeTakeValue\"\>", ",", "\<\"MaybeUnit\"\>", 
+   ",", "\<\"MaybeUnitQ\"\>", ",", "\<\"MaybeWhen\"\>"}], "}"}]], "Output",
+ TaggingRules->{},
+ CellChangeTimes->{3.89122820567485*^9},
+ CellLabel->"Out[26]=",
+ CellID->507802494,ExpressionUUID->"2437e377-71f0-44e9-ae23-f0d566e0e4e2"]
+}, Open  ]]
+}, Open  ]]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2472,7 +3554,29 @@ oriented-design-patterns-in-mathematica/"], None},
   "https://mathematicaforprediction.wordpress.com/2016/03/20/object-oriented-\
 design-patterns-in-mathematica/"]], "Item",
  TaggingRules->{},
- CellID->1707485133,ExpressionUUID->"807c7c5a-d6ef-42e4-b45d-bc2d2be064ff"]
+ CellChangeTimes->{{3.8912485522369967`*^9, 3.891248552239849*^9}},
+ CellID->1707485133,ExpressionUUID->"807c7c5a-d6ef-42e4-b45d-bc2d2be064ff"],
+
+Cell[TextData[{
+ ButtonBox["\"Monadic Programming: With Application to Data Analysis, Machine \
+Learning and Language Processing\"",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.youtube.com/watch?v=_cIFA5GHF58"], None},
+  ButtonNote->"https://www.youtube.com/watch?v=_cIFA5GHF58"],
+ " presentation at ",
+ ButtonBox["Wolfram Technology Conference 2017",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://www.wolfram.com/events/technology-conference/2017/"], None},
+  ButtonNote->"https://www.wolfram.com/events/technology-conference/2017/"],
+ "."
+}], "Item",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891248560960949*^9, 3.891248582371002*^9}, {
+  3.891248733536908*^9, 3.891248733537919*^9}, {3.891248788508131*^9, 
+  3.8912487885091047`*^9}},
+ CellID->1533142511,ExpressionUUID->"532a94d1-4b03-47d8-822f-05e5c8d80d67"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3857,7 +4961,7 @@ Cell["Additional information about limitations, issues, etc.", "Text",
 }, Open  ]]
 },
 WindowSize->{1546, 1182},
-WindowMargins->{{Automatic, 789}, {Automatic, 27}},
+WindowMargins->{{Automatic, 738}, {Automatic, 12}},
 WindowTitle->"MonadMakers | Definition Notebook",
 DockedCells->{
   Cell[
@@ -3873,7 +4977,853 @@ DockedCells->{
    CellFrameMargins -> {{0, 0}, {2, 2}}, CellFrame -> {{0, 0}, {1, 0}}, 
    CacheGraphics -> False, CellOpen -> Dynamic[
      CurrentValue[
-      EvaluationNotebook[], {TaggingRules, "ToolsOpen"}, True]]]},
+      EvaluationNotebook[], {TaggingRules, "ToolsOpen"}, True]]], 
+  Cell[
+   BoxData[
+    StyleBox[
+     TagBox[
+      GridBox[{{
+         OverlayBox[{
+           StyleBox[
+            TagBox[
+             DynamicModuleBox[{Typeset`var$$ = False}, 
+              InterpretationBox[
+               StyleBox[
+                PaneSelectorBox[{False -> GridBox[{{
+                    OpenerBox[
+                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
+                    Automatic, AutoAction -> False, ContinuousAction -> 
+                    False], 
+                    StyleBox[
+                    DynamicBox[
+                    ToBoxes[
+                    DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
+                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                    StandardForm], SingleEvaluation -> True, Evaluator -> 
+                    "System"], FontSlant -> Italic, FontColor -> 
+                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
+                    False]}}, GridBoxAlignment -> {"Columns" -> {{Left}}}, 
+                    AutoDelete -> False, 
+                    GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    GridBoxSpacings -> {
+                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
+                    BaselinePosition -> {1, 1}], True -> GridBox[{{
+                    OpenerBox[
+                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
+                    Automatic, AutoAction -> False, ContinuousAction -> 
+                    False], 
+                    StyleBox[
+                    DynamicBox[
+                    ToBoxes[
+                    DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
+                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                    StandardForm], SingleEvaluation -> True, Evaluator -> 
+                    "System"], FontSlant -> Italic, FontColor -> 
+                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
+                    False]}, {"", 
+                    PaneBox["\"\"", ImageMargins -> 0]}}, 
+                    GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
+                    False, GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    GridBoxSpacings -> {
+                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
+                    BaselinePosition -> {1, 1}]}, 
+                 Dynamic[Typeset`var$$], Alignment -> Automatic, ImageSize -> 
+                 Automatic, ImageMargins -> 0, BaseStyle -> {}, 
+                 DefaultBaseStyle -> "OpenerView", BaselinePosition -> 
+                 Baseline], Deployed -> False, StripOnInput -> False], 
+               OpenerView[{
+                 Style[
+                  Dynamic[
+                   DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
+                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                   SingleEvaluation -> True, Evaluator -> "System"], 
+                  FontSlant -> Italic, FontColor -> GrayLevel[0.5], FontSize -> 
+                  0.9 Inherited], ""}, False]], DynamicModuleValues -> 
+              Automatic], Setting[#, {0}]& ], ShowContents -> False, 
+            StripOnInput -> False], 
+           StyleBox[
+            DynamicBox[
+             ToBoxes[
+              DateString[
+               TimeZoneConvert[
+                DateObject[
+                3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
+               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short",
+                 ":", "Minute", " ", "AMPMLowerCase"}], StandardForm], 
+             SingleEvaluation -> True, Evaluator -> "System"], FontSlant -> 
+            Italic, FontColor -> GrayLevel[0.5], FontSize -> 0.9 Inherited, 
+            StripOnInput -> False]}, Alignment -> {Right, Baseline}], 
+         "\"   \"", 
+         ItemBox[
+          StyleBox[
+          "\"Found 1 potential issue and 13 suggestions\"", LineBreakWithin -> 
+           Automatic, LineIndent -> 0, StripOnInput -> False], ItemSize -> 
+          Fit, StripOnInput -> False], 
+         StyleBox[
+          ActionMenuBox[
+           TemplateBox[{
+             TemplateBox[{
+               TagBox[
+                GridBox[{{
+                   TemplateBox[{
+                    TemplateBox[{
+                    PaneBox[
+                    TemplateBox[{
+                    RGBColor[1., 0.4627450980392157, 0.]}, "HintPodIconHint"],
+                     ImageSize -> {12, 12}, ImageSizeAction -> "ShrinkToFit", 
+                    BaselinePosition -> Scaled[0.1]], 
+                    TemplateBox[{1}, "Spacer1"], 
+                    StyleBox[
+                    "1", FontSize -> 14, FontWeight -> Plain, FontColor -> 
+                    GrayLevel[0.25], FontFamily -> "Source Sans Pro", 
+                    StripOnInput -> False]}, "RowDefault"], 
+                    "\"Potential issues found\""}, "PrettyTooltipTemplate"], 
+                   TemplateBox[{
+                    TemplateBox[{
+                    PaneBox[
+                    TemplateBox[{
+                    RGBColor[
+                    0.49019607843137253`, 0.49019607843137253`, 
+                    0.49019607843137253`]}, "HintPodIconHint"], 
+                    ImageSize -> {12, 12}, ImageSizeAction -> "ShrinkToFit", 
+                    BaselinePosition -> Scaled[0.1]], 
+                    TemplateBox[{1}, "Spacer1"], 
+                    StyleBox[
+                    "13", FontSize -> 14, FontWeight -> Plain, FontColor -> 
+                    GrayLevel[0.25], FontFamily -> "Source Sans Pro", 
+                    StripOnInput -> False]}, "RowDefault"], 
+                    "\"Suggestions found\""}, "PrettyTooltipTemplate"]}}, 
+                 AutoDelete -> False, 
+                 GridBoxItemSize -> {
+                  "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
+                "Grid"], 
+               GraphicsBox[{
+                 GrayLevel[0.4], 
+                 AbsoluteThickness[2], 
+                 CapForm["Round"], 
+                 LineBox[{{-1, 0}, {0, -1}, {1, 0}}]}, {
+                ImageSize -> {13, 9}, BaselinePosition -> Scaled[0.2], 
+                 ImagePadding -> {{3, 3}, {3, 3}}, AspectRatio -> Full}]}, 
+              "RowDefault"], ImageSize -> {Automatic, 19}, BaselinePosition -> 
+             Baseline, Background -> GrayLevel[1], FrameStyle -> Dynamic[
+               If[
+                CurrentValue["MouseOver"], 
+                Hue[0.55, 0.82, 0.87], 
+                GrayLevel[0.8]]], FrameMargins -> {{4, 4}, {1, 1}}, 
+             Alignment -> {Center, Baseline}}, "Highlighted"], {TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L131,C7) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "8849866e-44c3-43fa-9310-8ed41667cc57", 1694918712, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/MonadTracer.wl", "Editor" -> 
+                 Automatic, "SourceLineStart" -> 131, "SourceColumnStart" -> 
+                 7, "SourceLineEnd" -> 131, "SourceColumnEnd" -> 11, 
+                 "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L131,C7) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{131, 7}, {131, 11}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/MonadTracer.wl", "Editor" -> 
+                    Automatic|>], "Hash" -> 2859530721146074933, "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L131,C7) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[1694918712]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L141,C19) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "e34752e1-6357-491c-9842-8f720c690656", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 141, 
+                 "SourceColumnStart" -> 19, "SourceLineEnd" -> 141, 
+                 "SourceColumnEnd" -> 23, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L141,C19) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{141, 19}, {141, 23}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L141,C19) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L151,C19) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "8a4f46fa-7994-4cdb-8dc4-3f15e9da0a44", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 151, 
+                 "SourceColumnStart" -> 19, "SourceLineEnd" -> 151, 
+                 "SourceColumnEnd" -> 23, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L151,C19) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{151, 19}, {151, 23}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L151,C19) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L164,C17) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "07863d84-d4ff-4be9-8d14-36a57289045c", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 164, 
+                 "SourceColumnStart" -> 17, "SourceLineEnd" -> 164, 
+                 "SourceColumnEnd" -> 21, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L164,C17) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{164, 17}, {164, 21}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L164,C17) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L172,C21) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "412a98ef-6a52-4398-9384-84454ab4c293", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 172, 
+                 "SourceColumnStart" -> 21, "SourceLineEnd" -> 172, 
+                 "SourceColumnEnd" -> 25, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L172,C21) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{172, 21}, {172, 25}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L172,C21) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L188,C59) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "8e679535-f791-4eb2-b990-d6326e3d1e80", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 188, 
+                 "SourceColumnStart" -> 59, "SourceLineEnd" -> 188, 
+                 "SourceColumnEnd" -> 63, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L188,C59) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{188, 59}, {188, 63}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L188,C59) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L189,C47) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "071b9ce7-5348-47eb-b044-51e3714a1841", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 189, 
+                 "SourceColumnStart" -> 47, "SourceLineEnd" -> 189, 
+                 "SourceColumnEnd" -> 51, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L189,C47) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{189, 47}, {189, 51}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L189,C47) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L194,C48) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "78b4591f-a9e1-41d8-8bd3-c1df8bbe14d8", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 194, 
+                 "SourceColumnStart" -> 48, "SourceLineEnd" -> 194, 
+                 "SourceColumnEnd" -> 52, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L194,C48) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{194, 48}, {194, 52}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L194,C48) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L195,C52) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "abf6dcde-2acc-409e-9687-7aa0c9bb9e86", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 195, 
+                 "SourceColumnStart" -> 52, "SourceLineEnd" -> 195, 
+                 "SourceColumnEnd" -> 56, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L195,C52) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{195, 52}, {195, 56}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L195,C52) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L202,C62) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "ec75f297-3981-45ba-aa87-e52be5587c44", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 202, 
+                 "SourceColumnStart" -> 62, "SourceLineEnd" -> 202, 
+                 "SourceColumnEnd" -> 66, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L202,C62) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{202, 62}, {202, 66}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L202,C62) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{"\"Suspicious use of session symbol \"", 
+                 StyleBox[
+                 "Echo", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L207,C50) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "b0a80bbf-f3ec-4f21-9a3a-722e40764516", 128215129, 
+                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
+                "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 207, 
+                 "SourceColumnStart" -> 50, "SourceLineEnd" -> 207, 
+                 "SourceColumnEnd" -> 54, "Message" -> 
+                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
+\\\" (L207,C50) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "SuspiciousSessionSymbol", 
+                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
+                   CodeParser`Source -> {{207, 50}, {207, 54}}, 
+                    ConfidenceLevel -> 0.55, "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L207,C50) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[1., 0.4627450980392157, 0.]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               TemplateBox[{
+                 StyleBox[
+                 "Module", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\" variable error: \"", 
+                 StyleBox[
+                 "sets", "Program", FontWeight -> Medium, 
+                  ShowStringCharacters -> True, StripOnInput -> False], 
+                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L48,C30) \\\\\\\"\\\", \
+Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
+Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
+Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
+            DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Warning", "Paclet", DefinitionNotebookClient`$CurrentNotebook,
+                 "74a9a4d1-7239-424b-b446-5693b3fe3d2f", 128215129, 
+                "CodeInspectionFileIssue/VariableError/Module", <|
+                "Argument" -> "Module", "File" -> 
+                 "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                 "Editor" -> Automatic, "SourceLineStart" -> 48, 
+                 "SourceColumnStart" -> 30, "SourceLineEnd" -> 48, 
+                 "SourceColumnEnd" -> 34, "Message" -> 
+                 "``Module`` variable error: ``sets``.\!\(\*StyleBox[\"\\\" \
+(L48,C30) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
+False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
+                 CodeInspector`InspectionObject[
+                  "VariableError", "``Module`` variable error: ``sets``.", 
+                   "Error", <|
+                   CodeParser`Source -> {{48, 30}, {48, 34}}, ConfidenceLevel -> 
+                    0.95, "Argument" -> "Module", "File" -> 
+                    "/Volumes/Macintosh \
+HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
+                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
+                 "Position" -> 
+                 "\!\(\*StyleBox[\"\\\" (L48,C30) \\\"\", Rule[FontOpacity, \
+0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
+List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
+False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               "\"The \\!\\(\\*TemplateBox[List[\\\"\\\\\\\"aspect \
+ratio\\\\\\\"\\\", \\\"paclet:ref/ImageResize#1946617708\\\"], \
+\\\"HyperlinkPaclet\\\"]\\) of the headline image should usually be greater \
+than 0.5\""}, "RowDefault"] :> DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "6c7e49c4-27b0-40e2-8f12-f57e24b1f4a0", 445097320, 
+                "HeroImageSquashed", <|
+                "Actual" -> Rational[460, 1277], "Expected" -> 0.5, "Resize" -> {
+                   Scaled[0.7204385277995301], 
+                   Scaled[1]}, "AspectRatio" -> 
+                 "\!\(\*TemplateBox[List[\"\\\"aspect ratio\\\"\", \
+\"paclet:ref/ImageResize#1946617708\"], \"HyperlinkPaclet\"]\)"|>]; 
+              DefinitionNotebookClient`PackageScope`seekAfter[445097320]; 
+              Null], TemplateBox[{
+               PaneBox[
+                TemplateBox[{
+                  RGBColor[
+                  0.49019607843137253`, 0.49019607843137253`, 
+                   0.49019607843137253`]}, "HintPodIconHint"], 
+                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
+                BaselinePosition -> Scaled[0.1]], "\" \"", 
+               "\"Curly quotes should usually be written as straight \
+quotes\""}, "RowDefault"] :> DefinitionNotebookClient`WithCurrentNotebook[
+              EvaluationNotebook[], 
+              DefinitionNotebookClient`LoadDefinitionNotebook[
+               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
+              DefinitionNotebookClient`PackageScope`setHint[
+               "Suggestion", "Paclet", 
+                DefinitionNotebookClient`$CurrentNotebook, 
+                "0ea7ac64-d04d-446b-ba5b-e8947fe70960", 1446090961, 
+                "CurlyQuotes", {}]; 
+              DefinitionNotebookClient`PackageScope`seekAfter[1446090961]; 
+              Null]}, Appearance -> None], "BoxID" -> "WarningCountButton", 
+          StripOnInput -> False], 
+         TagBox[
+          ButtonBox[
+           TagBox[
+            PaneSelectorBox[{False -> GraphicsBox[{
+                 GrayLevel[
+                  NCache[
+                   Rational[64, 85], 0.7529411764705882]], 
+                 
+                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
+                  0.42426406871192845`}, {0.42426406871192845`, 
+                  0.282842712474619}}], 
+                 
+                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
+                  0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
+                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
+                0, PlotRange -> 0.7, Background -> None], True -> GraphicsBox[{
+                 GrayLevel[
+                  NCache[
+                   Rational[128, 255], 0.5019607843137255]], 
+                 
+                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
+                  0.42426406871192845`}, {0.42426406871192845`, 
+                  0.282842712474619}}], 
+                 
+                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
+                  0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
+                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
+                0, PlotRange -> 0.7, Background -> None]}, 
+             Dynamic[
+              CurrentValue["MouseOver"]], ImageSize -> Automatic, 
+             FrameMargins -> 0], 
+            MouseAppearanceTag["LinkHand"]], ButtonFunction :> 
+           With[{DefinitionNotebookClient`Stripes`PackagePrivate`nbo$ = 
+              EvaluationNotebook[]}, 
+             CurrentValue[
+              DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+               DockedCells] = If[
+               TrueQ[
+                MemberQ[
+                 CurrentValue["ModifierKeys"], "Control"]], 
+               DeleteCases[
+                Flatten[{
+                  CurrentValue[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+                   DockedCells]}], 
+                Cell[
+                 Blank[], "StripeCell", 
+                 BlankNullSequence[]]], 
+               DeleteCases[
+                Flatten[{
+                  CurrentValue[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+                   DockedCells]}], 
+                Condition[
+                 Pattern[DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
+                  Blank[Cell]], 
+                 Not[
+                  FreeQ[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
+                   "d14e1b09-e360-4649-80f0-56fcf49c2e9a"]]]]]], Appearance -> 
+           None, BoxID -> "d14e1b09-e360-4649-80f0-56fcf49c2e9a", Evaluator -> 
+           Automatic, Method -> "Preemptive"], 
+          MouseAppearanceTag["LinkHand"]]}}, 
+       GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
+       AutoDelete -> False, 
+       GridBoxItemSize -> {
+        "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], "Grid"], 
+     "Text", FontSize -> 12, FontColor -> GrayLevel[0.25], StripOnInput -> 
+     False]], "StripeCell", CellFrameMargins -> {{20, 5}, {2, 2}}, 
+   CellFrame -> {{0, 0}, {1, 0}}, CellFrameColor -> GrayLevel[0.75]]},
 TaggingRules->{
  "ResourceType" -> "Paclet", "ResourceCreateNotebook" -> True, 
   "TemplateVersion" -> "2022.09.16", "CreationTimestamp" -> 
@@ -3920,28 +5870,31 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
     "/Volumes/Macintosh \
 HD/Users/antonov/WL-MonadMakers-paclet/build/AntonAntonov__MonadMakers-1.0.0.\
 paclet", "FileHashes" -> ByteArray[CompressedData["
-1:eJwBjgNx/CFib1JiAQAAAIEDAAA4Qzp4nKWWW0gUURiAu0hFKWWxUUlXy7x0
-dpe8bFqIe1Fbdcs6aldcxpmz6+Q4x2Zm04q0IOrBF6WbVnQPJcIIfLCiC9ZD
-V5KwrQezm1pkUaJZWUGuVsdGm2a3p2HOzP99/Pz/Of8xzgRwjgXTrnzES5TE
-Yl6XyDs5VszVWXkGFensei3tEI0jABwFsUugkei3DPOo9zWDEpxISuMNQYam
-6jWbAAxR4ojI6fkk2iMVWJdi40+XLmP0AIaqYWmdiFegBdqe7ThV9CoWQOPQ
-tJXIgQTE0yidciJRBzfn52BO1BlFEdNs3682zLg4pOVzBmjS7o2+nWf3O55C
-TO1d7uL3tVMtACZ5ZUpGPBIoCdkwTzFGujcFEQuiTBfuMre+yTswbIDuwem7
-AJ4LBdDsu84i4AIkyFy2KlOWdYY/JK47ukufx73eJ/yXCyJJGuQ6HLbx+Kym
-1LnE5ZdbW1eYMjwTQJPvrgwqb5DKVNORcNldPp2oLp6lxu65Vl3sa8Wg9Mtn
-xoy8QXrA9qMl39ZuI7oZnV/8j5RNHAVgjHc6gWUWGWR4XLOpZFXFqQkE//z9
-186gLZ9SAYz3Cp8hUHR/FiaWZ2SaE4XaG9P24DFE455cw35tTM/ytj5Ek0jn
-Yk9OMlX0heKGhB4jTVThCcFL7sfXrgAwzkeVvAWGx9SPMXWPJ4rIA63VUTFr
-ad+z8bTaENk8LKhy3tr51E5UHU12a1Hr9xLf65PJs5JMU7Z/b0Glf/0Uotld
-PbGqOzkuyNuM5hJPEsVyLkHe0Me625otmtT1RLVtfsmGltmVZgDDh1ZBRAl0
-bv95Hd0/RZDCWa3Rz4oO+VCR6A1PaSqdbHEvrotaRwEYppInsgq47M6rN93m
-KwEAAjU4B4s4RtQWcgrIeR8P0d/OVGkAjFKDZD1PG5IohpIoZbKUr7mc1P6l
-dzxo1ZB/T+aFCszVEXH30VKDXiWzUGAlpOUwnafAZDOXz1n9IrP31Jr/F2YB
-4jiV15Cu6zd3G8oaRwIY8U+YqruItX1X5NKA4K1/L/lgoOoLiSYVCTzidH17
-zuaZWLJuSUu0nS9/p38SR6LJyh/RfXtXkEVvbWyzRgdZckg0WZn+M5qMsJ9D
-DcspLT2TXjY8WrCBUMhKQDpFc0iy8g4si3qblh3bHHxwQN5kJbA/ykbxrAOJ
-knIf3x0/+/FHU2nkDyyA8V6vObmv
-      "]]}, "TryRealOnly" -> False},
+1:eJwBEwTs+yFib1JiAQAAAAYEAAA4Qzp4nKWWb0wbZRjAFXEuc2Sim6Eii7Rk
+A/S9ohvCwCD9A11pb0PfQlDJ6vX6tj16vIfvXQdkGYtmcR/84JY5DWZRN3Hs
+g9myhLhNY2LU+GebGSHAYhxglE0DCiHZFsQteqXoWw+4XeunNu/d8/vd8/57
+HpsFwEedEh9rRVjhFEHC1hocFgU5YnXFhCCSrayEuWArFxVwmMEBWwaAK6AU
+IzzyBojFFnhhuFQd8XEkjBQv6c+YHp8F2wA0L8104yDqsPpLGD4kJ6HkzG0S
+RpTTeezUuxPnV9kB3KDHkVE4/kj2b9JhjawvbG5ikQJgoREWE0ZYh5bN/vhy
+T8cvWwC0LU17FoUQQZhH9VxYnT3Y2RqQRNlqk2WJF+ZfZaVgTESaufzunnNR
+f+aROmqavDbcNd1ncgJYm5LJhTAinILm183GqynIEpE1uuKY48pE9K07knQD
+H1wA8GQhgI70dU4itSGicbG99kb3+tWQus5bP5m999dD5H+5IFKURa7DRS8d
+eeSyp4C6MiN9Z9rr7mwA0J6+y8dFF6nsJ2aqPx0+kEdVH3/IrTr42fGudFcM
+Kv/4HFJQu0FYsvaPnIkShur6Xpk1Xy/vXAvgk6npiBAsL9Pgs4qmjv7lNudT
+/JrNxyLnnt6JAaxKCe8jHJ/Iwi7goEZztJ358qGD0kqqGX7whPDnYH1jqutD
+NTV8RIrnpFGVnu3qr56z8VRVXG156mJV3zMAVqSp0igsrw8M1L7ml6nindHs
+qbLpoofTzya+1ZbIZqitN/zt3jE/Vc1c9rs7rtzak/76NGBB0Wj2v/lGW/fq
+z3OoZt/x+3tvuCpyU82ogHpqOUGMEe2Gfu/G1VHnOk8zVe3euKdlPL/bAWDx
+0iqIOMJHEvd1aaKKIJ27ug4/ZzKxBTmp8PSqUt7U+97rrhfV7ysyyJMFHdzM
+2I6zzYHtTQACI7iQgMSgzLSLOsjclReJw16pnuLNRpBC/FctjVyQUzh9smtD
+7Yq5kX4zgIwR8r+V+QkdJvi6sjHj+clKg8x2IiiIESU+qsMUGrabm35q8AC4
+cRlmGxJFg23ItS++2Ve2f/AuQ7Dy28C28j88fmbsbtuy/VYSzFBj4558ddPW
+LMuu5ffPYuBtuhvT6d05PcotV0rf2KIDHLoZHTpk8jHL3h6+mCIRgRMX+kxe
+LXzhRDlU3+LiIgVhWf2vuT1mxg7fPO3Zm6Taeemr/O66HnV+13kQwUhMENl4
+6dYcG28Ne+rA7yUjFTSajvwnev4SI5roXYNX3aW5zgCNpiN5C9G0li9Ud0lL
+GZ974Of+S4+1UAodyarneBEpbhySNFG/eXdsGbW8nZQ3HclORLEcFkJIVvQP
+9Jr7qi58dPJ7z99U5nCHJtcVFQ==
+      "]]}, "TryRealOnly" -> False, "Paclet" -> "None"},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,
 FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (January 30, 2023)",
@@ -4254,7 +6207,6 @@ VX/aMEEQzrerjFhhelYAzofFB3r8AgApYdcE
                     GrayLevel[0.65], 
                     Thickness[
                     NCache[2/45, 0.044444]], 
-                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1, 
                     0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
@@ -5226,7 +7178,6 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                    FaceForm[{
                     RGBColor[0.31373, 0.4549, 0.61176], 
                     Opacity[1.]}], 
-                   
                    FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}}}, {{{182.78, 198.67}, {182.78, 123.95}, {118.06, 
                     86.587}, {118.06, 161.31}, {182.78, 198.67}}}]}, {
@@ -5511,7 +7462,8 @@ AsyncronousResourceInformationUpdates = False,
              GridBox[{{"\"\"", "\"\""}}, 
               GridBoxAlignment -> {
                "Columns" -> {{Left}}, "Rows" -> {{Center}}}, AutoDelete -> 
-              False, GridBoxDividers -> {
+              False, 
+              GridBoxDividers -> {
                "ColumnsIndexed" -> {2 -> True}, "Rows" -> {{False}}}, 
               GridBoxItemSize -> {
                "Columns" -> {{Automatic}}, "Rows" -> {{2}}}, 
@@ -5898,6 +7850,7 @@ p2HmwdTp4FCHTvOhqYfZrw2lhdDk0fno6tHcD1PPwOSAnY+uns8BAE8cGz4=
 Hw4apk4Uap8aDr4QDhqqDu4uVRx8URw0TJ001D5lHHwJHDRUHYMclFbCwZfG
 QUPVNSjgp+HmIWgAG/wcEg==
                     "]], 
+                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2,
                      0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 
                     0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1,
@@ -7112,7 +9065,6 @@ Mn8D1T+bLHr4qqKuQ8bv8LBZfwwdhGSmFwY76zqghzcABAZ3MA==
           FaceForm[
            GrayLevel[1.]]], 
          StyleBox[{
-           
            FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1,
              0}, {0, 1, 0}}}, {{{13., 18.}, {13., 14.5}, {12.99992, 
             14.367367999999999`}, {13.052580000000003`, 14.240146}, {
@@ -7652,6 +9604,7 @@ Mn8D1T+bLHr4qqKuQ8bv8LBZfwwdhGSmFwY76zqghzcABAZ3MA==
           FaceForm[
            GrayLevel[1.]]], 
          StyleBox[{
+           
            FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {1, 3,
               3}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {1, 
              3, 3}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {
@@ -10360,6 +12313,7 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     If[
                     And[RSNB`nbDir =!= RSNB`oldDir, 
                     MemberQ[$Packages, "PacletResource`DefinitionNotebook`"]], 
+                    
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
@@ -10830,7 +12784,6 @@ RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]],
                     EvaluationCell[], 
                     Cell[
                     BoxData[
-                    
                     TemplateBox[{"\"The current notebook is not saved.\""}, 
                     "PacletDirectoryChooserErrorTemplate"]], 
                     "AttachedMessage"], "Inline", 
@@ -11662,7 +13615,6 @@ GRPf1sw3cDj8VSOm/5G9w5vAHXKt3IZQ/0HDoQHBFwFFwBcEHxR9zQlGcP3o
             FaceForm[{
               RGBColor[0.91, 0.655, 0.635], 
               Opacity[1.]}], 
-            
             FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 
              1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{12.125, 17.763}, {
              11.875, 17.763}, {11.875, 12.041}, {6.952, 9.9757}, {7.048, 
