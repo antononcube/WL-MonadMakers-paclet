@@ -35,7 +35,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1972653831,ExpressionUUID->"971a4fe9-08c0-4ef5-a2e5-7cb4f0634e63"],
+ CellID->1972653831,ExpressionUUID->"d995dac5-63e1-4eee-918e-425c63ff2855"],
 
 Cell[CellGroupData[{
 
@@ -64,7 +64,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"450a9098-5d0e-4728-9f02-bfe6878e8a03"]], \
+   "Text"}]],ExpressionUUID->"f0f8279c-9535-487b-b792-5ee9cbd260ac"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -75,7 +75,100 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1540395231,ExpressionUUID->"1479c8ec-47d9-4794-8e11-407b6c5fdf69"],
+ CellID->1540395231,ExpressionUUID->"7969b1eb-2d53-461b-b34a-080d14289a42"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   ActionMenuBox["\<\"Diagrams\"\>", {"\<\"Open/Close Group\"\>":>(
+    SelectionMove[
+      ParentCell[
+       EvaluationCell[]], All, Cell]; FrontEndTokenExecute[
+      EvaluationNotebook[], "OpenCloseGroup"]), "\<\"Open Directory\"\>":>
+    DefinitionNotebookClient`FileTreeOpen[
+     ParentCell[
+      EvaluationCell[]]], "\<\"Un/Mark as Excluded\"\>":>
+    DefinitionNotebookClient`FileTreeExclusionToggle[
+     ParentCell[
+      EvaluationCell[]]], "\<\"Copy Path to Clipboard\"\>":>
+    DefinitionNotebookClient`FileTreeCopy[
+     ParentCell[
+      EvaluationCell[]]]},
+    Appearance->None,
+    BaseStyle->{"Text"}],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[1]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "Diagrams"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{
+   "Text"}]],ExpressionUUID->"413dc100-fe0a-44c3-97a9-02f79a645d54"]], \
+"FileManagerDirectory",
+ CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 110},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
+     None], Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->2087339076,ExpressionUUID->"ee9630b8-f53f-49f0-a885-b115f13883d5"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"MonadMakers-healine-image.png\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "Diagrams", 
+       "MonadMakers-healine-image.png"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[2]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "Diagrams", 
+    "MonadMakers-healine-image.png"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 120},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->614992940,ExpressionUUID->"24414d95-975c-43b0-b593-7c99d270f4ef"],
+
+Cell[BoxData[
+ InterpretationBox[
+  TagBox[
+   TemplateBox[{"\"MState-monad-echoes.png\"", 
+     FileNameJoin[{
+       NotebookDirectory[], "Documentation", "Diagrams", 
+       "MState-monad-echoes.png"}]},
+    "FileManagerFileOpenerTemplate"],
+   Annotation[#, 
+    DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[2]]& ],
+  FileNameJoin[{
+    NotebookDirectory[], "Documentation", "Diagrams", 
+    "MState-monad-echoes.png"}],
+  BoxID -> "FileTreePath",
+  BaseStyle->{"Text"}]], "FileManagerFile",
+ CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
+ CellGroupingRules->{"SectionGrouping", 120},
+ TaggingRules->{},
+ CellFrameLabels->{{
+    Cell[
+     BoxData[
+      TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
+    Inherited}, {Inherited, Inherited}},
+ CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
+ CellID->347549569,ExpressionUUID->"0cc339d7-eb52-43ac-afd8-f2e24408d01a"]
+}, Closed]],
 
 Cell[CellGroupData[{
 
@@ -104,7 +197,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"8871be94-ebde-4bdf-9d3c-b5b1fdd58546"]], \
+   "Text"}]],ExpressionUUID->"0a5958d6-db49-42ca-804a-96472afbe969"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -115,7 +208,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->914772242,ExpressionUUID->"a65fe3bf-ce79-4ac4-bde1-da006bed86df"],
+ CellID->914772242,ExpressionUUID->"622d072b-8949-40c1-862e-5a7182dc58ea"],
 
 Cell[CellGroupData[{
 
@@ -143,7 +236,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"ebba0943-1a33-4915-9834-e3e62bd932d3"]], \
+   "Text"}]],ExpressionUUID->"bc25eea8-26bb-4f8b-b7ee-04d278bbce8c"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -154,7 +247,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->741642421,ExpressionUUID->"c54e43d7-b0b6-446e-a090-cb0dbd8dbe19"],
+ CellID->741642421,ExpressionUUID->"a55fa99c-36b3-4dd2-a148-a6fa910295fa"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -180,7 +273,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->516965092,ExpressionUUID->"94217378-6d21-4100-ad06-9062d16fac47"]
+ CellID->516965092,ExpressionUUID->"f2e3826d-8f0a-4c2a-a08f-d94d3673d762"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -210,7 +303,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"dc64e999-6832-4820-9de2-65bcf43ed06f"]], \
+   "Text"}]],ExpressionUUID->"f40facad-2132-4bcb-bad2-9fc750c96b1b"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -221,7 +314,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->789082559,ExpressionUUID->"826f463e-1560-495a-bb4a-608f2cd98cf6"],
+ CellID->789082559,ExpressionUUID->"02479a52-4048-4b09-a9a6-3bfcbcc3a076"],
 
 Cell[CellGroupData[{
 
@@ -251,7 +344,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"c47ee70b-77fe-42c6-a3cc-6dec3924ee93"]], \
+   "Text"}]],ExpressionUUID->"2f6b63c7-c41c-4a39-80d3-4e4e453042fe"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -262,7 +355,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1399048888,ExpressionUUID->"b6ab003a-5255-4a11-a0c7-b78e65dd3dc1"],
+ CellID->1399048888,ExpressionUUID->"77363d96-e982-4e23-94c7-87a3b0297dbd"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -288,7 +381,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1016209613,ExpressionUUID->"120dbe64-0a92-4226-96b8-8d23848ce276"],
+ CellID->1016209613,ExpressionUUID->"9dcc0d8b-d76f-44ab-8b68-0f1423a44c57"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -314,7 +407,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->497521100,ExpressionUUID->"48c9c6ab-b591-4362-8218-0da1b5ab6129"],
+ CellID->497521100,ExpressionUUID->"321b7704-8873-4fab-b2f0-3143ae1ca52a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -340,7 +433,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1683289929,ExpressionUUID->"a933760a-c34e-4c39-b032-e2ce61760bea"],
+ CellID->1683289929,ExpressionUUID->"08b6ce18-57c7-4379-b286-75cab5e7c8ec"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -366,7 +459,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->104271125,ExpressionUUID->"2877e792-1cec-489e-9e2f-5a2515c14e05"],
+ CellID->104271125,ExpressionUUID->"94a852f3-4912-4a6c-895a-ebd2db172e56"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -392,7 +485,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->138141923,ExpressionUUID->"4880b5c3-62e9-477c-948b-503468a64fdf"],
+ CellID->138141923,ExpressionUUID->"5c4afcc0-18d0-44ca-982c-090531df9f3e"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -418,7 +511,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->321477454,ExpressionUUID->"d5c41549-08e9-45e7-ac56-79c2afdbd762"],
+ CellID->321477454,ExpressionUUID->"3d0a495e-a47c-462e-bfe6-a29738148e1f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -444,7 +537,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2713526,ExpressionUUID->"27269d34-d677-4582-af5c-0977395af730"],
+ CellID->2713526,ExpressionUUID->"6592f2e3-1089-4d38-9fc8-8216e522ac55"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -470,7 +563,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->509074895,ExpressionUUID->"c80545fb-797e-4f90-9602-5e815b85c779"],
+ CellID->509074895,ExpressionUUID->"90038d59-d230-4afe-a32e-716f8b1cc05f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -496,7 +589,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->446910617,ExpressionUUID->"8658f36e-5c24-424d-bda2-fa2f37e1b2c4"],
+ CellID->446910617,ExpressionUUID->"5a0567c5-df05-4713-bc52-087db87bc053"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -522,7 +615,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->920518883,ExpressionUUID->"5eac210e-253f-48cd-9048-8dfed0cc2399"],
+ CellID->920518883,ExpressionUUID->"3fc34763-d375-43a9-ad87-95a43f620c18"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -548,7 +641,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1476426360,ExpressionUUID->"b0c24ca4-e4bc-4ac0-bc88-0f34f5754a76"],
+ CellID->1476426360,ExpressionUUID->"a450d5d2-cb28-4d98-9a1f-8d2214bdc169"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -574,7 +667,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->124291435,ExpressionUUID->"7eace0d3-65d1-4f3a-9830-6f9aba29ad83"],
+ CellID->124291435,ExpressionUUID->"dde83ee9-8c7e-4e19-8b88-cc6cdfbbf1b3"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -600,7 +693,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1612043161,ExpressionUUID->"9151496d-6e77-4af1-9a52-315216085342"]
+ CellID->1612043161,ExpressionUUID->"a2c0bff6-d6a7-4153-89fb-8706ad1c236f"]
 }, Open  ]]
 }, Open  ]],
 
@@ -631,7 +724,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"582f2374-388a-4933-adac-aee7c8f7f16e"]], \
+   "Text"}]],ExpressionUUID->"553911ff-7159-488e-803c-19422d549620"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -642,7 +735,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->955716375,ExpressionUUID->"a632d6b3-7a10-4f2f-bc94-44bb4d30b34e"],
+ CellID->955716375,ExpressionUUID->"9ec8d0f0-9d43-4159-acac-45222353dc5b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -668,7 +761,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2060949129,ExpressionUUID->"ad6c1f8e-6b32-4d33-a695-97564c8e3c23"]
+ CellID->2060949129,ExpressionUUID->"3c3be6ba-d705-42c3-b6bd-bb648107cf86"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -699,7 +792,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"1471f2ff-f756-4b15-8e92-b4d5cfbcedc8"]], \
+   "Text"}]],ExpressionUUID->"9df04193-eb1d-41a0-b722-536a625530c0"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -710,7 +803,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1507282832,ExpressionUUID->"85962163-7ea0-42b1-a2ed-e07afd234825"],
+ CellID->1507282832,ExpressionUUID->"8c4b388b-64fb-4404-94af-13630ab543f0"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -734,7 +827,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1185457412,ExpressionUUID->"bff3167e-223a-4b57-99e5-817d397e8e7c"],
+ CellID->1185457412,ExpressionUUID->"e335862c-3ea2-4b8c-90f0-88a83e6415d1"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -758,7 +851,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1694918712,ExpressionUUID->"34f6f678-d6f2-436c-97df-6cc95f8dcc2a"],
+ CellID->1694918712,ExpressionUUID->"457d8e40-3bd1-4e53-be37-c865059869e6"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -782,7 +875,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->128215129,ExpressionUUID->"77dc6e4d-8607-461c-9024-1c0c3408faef"]
+ CellID->128215129,ExpressionUUID->"0125e736-7ccb-4143-b697-832cc3aedbdc"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -807,7 +900,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1776930265,ExpressionUUID->"972571c0-104e-401c-99d7-955cc3460b86"],
+ CellID->1776930265,ExpressionUUID->"b7a36749-ac5b-4ef0-bda0-5b7ef8d9ca1b"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -831,7 +924,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1959368673,ExpressionUUID->"cb8fb3d6-f86d-453c-b5da-8f60b05a5729"],
+ CellID->1959368673,ExpressionUUID->"97dc92ba-5d4d-4d96-b0f0-0e7068141786"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -855,7 +948,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->985575162,ExpressionUUID->"4d08b6ec-a5b0-4adc-b458-6407b9b4ca82"],
+ CellID->985575162,ExpressionUUID->"826f991d-ac8a-42f5-9b87-f416aaa369c4"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -879,13 +972,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1595044013,ExpressionUUID->"819f3f4b-658a-4aab-8323-9c2eb13b3f33"],
+ CellID->1595044013,ExpressionUUID->"96b12a3d-4884-4c1a-8400-a84ffd262099"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->866360990,ExpressionUUID->"1a3bd513-dd80-4ef3-87c8-0260c2e5fe8c"]
+ CellID->866360990,ExpressionUUID->"3177376c-9b66-4ecf-bb3f-77984dce2d8d"]
 }, Open  ]]
 }, Open  ]],
 
@@ -2011,16 +2104,17 @@ examples on the webpage for the resource.", "MoreInfoText"], Background ->
 
 Cell["\<\
 In this paclet the concept \"software monad\" is seen as a design pattern, \
-suitable for building rapid, dynamic computation workflows building.\
+suitable for rapid and dynamic building of computational workflows.\
 \>", "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891248601431382*^9, 3.891248660039365*^9}, {
   3.891250306741749*^9, 3.891250310639593*^9}, {3.891250403264124*^9, 
-  3.891250415152328*^9}},
+  3.891250415152328*^9}, {3.891319997160017*^9, 3.891320023557911*^9}, {
+  3.891320382327766*^9, 3.891320388852326*^9}},
  CellID->908312169,ExpressionUUID->"bdcda197-715c-4b1e-96cf-ee9d5fa43fd1"],
 
 Cell[TextData[{
- "WL code of software monads can be generated (and evaluated) with ",
+ "WL code of software monads is generated (and evaluated) with ",
  Cell[BoxData[
   ButtonBox["GenerateStateMonadCode",
    BaseStyle->"Link",
@@ -2031,7 +2125,7 @@ Cell[TextData[{
  TaggingRules->{},
  CellChangeTimes->{{3.891225179436418*^9, 3.89122524623073*^9}, {
   3.891225288453198*^9, 3.891225294835527*^9}, {3.891248598534446*^9, 
-  3.8912485998396873`*^9}},
+  3.8912485998396873`*^9}, {3.89132040708375*^9, 3.891320408001594*^9}},
  CellID->1557618001,ExpressionUUID->"59ea40e7-39f8-4b52-a36c-099033641e22"],
 
 Cell["\<\
@@ -2048,21 +2142,23 @@ Cell[TextData[{
   ButtonBox["Association",
    BaseStyle->"Link"]], "InlineFormula",ExpressionUUID->
   "80463a3b-614f-4a3e-9387-a22bdf492d11"],
- ". accessible with functions with the suffixes \"EchoContext\" and \
+ ", accessible with functions with the suffixes \"EchoContext\" and \
 \"EchoFunctionContext\"."
 }], "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891226192275025*^9, 3.8912262271858788`*^9}, {
-  3.891226316672336*^9, 3.891226347093171*^9}},
+  3.891226316672336*^9, 3.891226347093171*^9}, {3.891320464497498*^9, 
+  3.8913204651046343`*^9}},
  CellID->1909399444,ExpressionUUID->"6d199450-77f5-4949-8a0f-a73fed55e348"],
 
 Cell["\<\
-Each generated monad has a \"pipeline value\" accessible with functions with \
+Each generated monad has a \"pipeline value\", accessible with functions with \
 the suffixes \"EchoValue\" and \"EchoFunctionValue\".\
 \>", "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891226228899379*^9, 3.891226315345323*^9}, {
-   3.891226483308579*^9, 3.891226499891117*^9}, 3.89122685426975*^9},
+   3.891226483308579*^9, 3.891226499891117*^9}, 3.89122685426975*^9, 
+   3.891320487220174*^9},
  CellID->2108312361,ExpressionUUID->"ec841b8a-9923-4110-b141-371c3185a990"],
 
 Cell[TextData[{
@@ -2072,12 +2168,12 @@ Cell[TextData[{
    BaseStyle->"Link",
    ButtonData->"paclet:AntonAntonov/MonadMakers/ref/TraceMonad"]], 
   "InlineFormula",ExpressionUUID->"c860e60b-fb27-4598-9643-5fdd7a67ae62"],
- ", allows tracking of pipeline executions with other monads."
+ ", allows tracking of pipeline executions of other monads."
 }], "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891225144963028*^9, 3.891225168977734*^9}, {
   3.891225250538563*^9, 3.891225301806025*^9}, {3.891225613264018*^9, 
-  3.891225641800324*^9}},
+  3.891225641800324*^9}, {3.891320508149351*^9, 3.891320508281076*^9}},
  CellID->1095889128,ExpressionUUID->"047c7755-bd94-4ef5-82a0-00a871e8d792"],
 
 Cell["The generated monads adhere to the monad axioms.", "Notes",
@@ -2089,12 +2185,14 @@ Cell["The generated monads adhere to the monad axioms.", "Notes",
  CellID->889292814,ExpressionUUID->"5caa95e3-a731-4cfa-98bc-e645c97d2733"],
 
 Cell["\<\
-We do not deal with types for monads explicitly, we generate code for monads \
-instead.\
+There no need to deal with monad types explicitly, the generated monad code \
+is \"sufficient.\"\
 \>", "Notes",
  TaggingRules->{},
  CellChangeTimes->{{3.891248047320163*^9, 3.891248079482362*^9}, 
-   3.891250344058113*^9},
+   3.891250344058113*^9, {3.891320524706934*^9, 3.891320582036393*^9}, {
+   3.891320627678495*^9, 3.891320673283793*^9}, {3.891320704186116*^9, 
+   3.89132072804881*^9}},
  CellID->2124269077,ExpressionUUID->"0fbb0d3a-0e8a-42d1-978d-f448afab8156"],
 
 Cell["\<\
@@ -2754,9 +2852,10 @@ Cell["Scope", "Subsection",
  TaggingRules->{},
  CellID->964056545,ExpressionUUID->"2e87d631-5931-4f45-9af2-f89fa75a50a2"],
 
-Cell["Here we generate a monad with prefix \"Maybe\":", "Text",
+Cell["Here we generate a monad with the prefix \"Maybe\":", "Text",
  TaggingRules->{},
- CellChangeTimes->{{3.891228112478652*^9, 3.89122813488792*^9}},
+ CellChangeTimes->{{3.891228112478652*^9, 3.89122813488792*^9}, {
+  3.891320053968055*^9, 3.8913200543485813`*^9}},
  CellID->766482134,ExpressionUUID->"e39e9f07-9576-4722-880e-ecfe505b127f"],
 
 Cell[BoxData[
@@ -3557,6 +3656,60 @@ design-patterns-in-mathematica/"]], "Item",
  CellChangeTimes->{{3.8912485522369967`*^9, 3.891248552239849*^9}},
  CellID->1707485133,ExpressionUUID->"807c7c5a-d6ef-42e4-b45d-bc2d2be064ff"],
 
+Cell[TextData[ButtonBox["A monad for Latent Semantic Analysis workflows | \
+Mathematica for prediction algorithms",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://mathematicaforprediction.wordpress.com/2019/09/13/a-monad-for-\
+latent-semantic-analysis-workflows/"], None},
+ ButtonNote->
+  "https://mathematicaforprediction.wordpress.com/2019/09/13/a-monad-for-\
+latent-semantic-analysis-workflows/"]], "Item",
+ TaggingRules->{},
+ CellChangeTimes->{{3.891320110742772*^9, 3.891320122159438*^9}},
+ CellID->1287552741,ExpressionUUID->"0b294749-384c-44e1-9ebd-ec02bdf3c025"],
+
+Cell[TextData[ButtonBox["A monad for classification workflows | Mathematica \
+for prediction algorithms",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://mathematicaforprediction.wordpress.com/2018/05/15/a-monad-for-\
+classification-workflows/"], None},
+ ButtonNote->
+  "https://mathematicaforprediction.wordpress.com/2018/05/15/a-monad-for-\
+classification-workflows/"]], "Item",
+ TaggingRules->{},
+ CellChangeTimes->{{3.8913201116633368`*^9, 3.8913201300429983`*^9}},
+ CellID->1853690815,ExpressionUUID->"eb41c439-259d-4a0e-852c-53c864ca19ce"],
+
+Cell[TextData[ButtonBox["A monad for Quantile Regression workflows | \
+Mathematica for prediction algorithms",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://mathematicaforprediction.wordpress.com/2018/08/01/a-monad-for-\
+quantile-regression-workflows/"], None},
+ ButtonNote->
+  "https://mathematicaforprediction.wordpress.com/2018/08/01/a-monad-for-\
+quantile-regression-workflows/"]], "Item",
+ TaggingRules->{},
+ CellChangeTimes->{{3.8913201116633368`*^9, 3.89132013063935*^9}, {
+  3.891320173667541*^9, 3.891320173668359*^9}},
+ CellID->1112501180,ExpressionUUID->"570f9835-db7c-47be-8e35-bb1d4aec7f15"],
+
+Cell[TextData[ButtonBox["A monad for Epidemiologic Compartmental Modeling \
+Workflows | Mathematica for prediction algorithms",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://mathematicaforprediction.wordpress.com/2021/01/02/\
+epidemiology-compartmental-modeling-monad/"], None},
+ ButtonNote->
+  "https://mathematicaforprediction.wordpress.com/2021/01/02/epidemiology-\
+compartmental-modeling-monad/"]], "Item",
+ TaggingRules->{},
+ CellChangeTimes->{{3.8913201116633368`*^9, 3.89132013063935*^9}, 
+   3.891320174325986*^9},
+ CellID->1194547776,ExpressionUUID->"628cac9c-3c41-47b7-ace3-d98aa3a778f2"],
+
 Cell[TextData[{
  ButtonBox["\"Monadic Programming: With Application to Data Analysis, Machine \
 Learning and Language Processing\"",
@@ -4301,8 +4454,8 @@ WolframAlpha calls", "MoreInfoText"], Background -> GrayLevel[0.95],
                    RoundingRadius -> 5, ImageSize -> {
                     Scaled[0.65], Automatic}]], "MoreInfoText", Deletable -> 
                  True, CellTags -> {
-                  "SectionMoreInfoDisclosuresWolframAccount"}, 
-                 CellMargins -> {{66, 66}, {15, 15}}], 
+                  "SectionMoreInfoDisclosuresWolframAccount"}, CellMargins -> 
+                 {{66, 66}, {15, 15}}], 
                 HoldComplete[
                  EvaluationCell[]], "Click for more information"}, 
                "InlineMoreInfoOpenerButtonTemplate"]}, "RowDefault"]},
@@ -4961,7 +5114,7 @@ Cell["Additional information about limitations, issues, etc.", "Text",
 }, Open  ]]
 },
 WindowSize->{1546, 1182},
-WindowMargins->{{Automatic, 738}, {Automatic, 12}},
+WindowMargins->{{Automatic, 224}, {Automatic, 0}},
 WindowTitle->"MonadMakers | Definition Notebook",
 DockedCells->{
   Cell[
@@ -4977,853 +5130,7 @@ DockedCells->{
    CellFrameMargins -> {{0, 0}, {2, 2}}, CellFrame -> {{0, 0}, {1, 0}}, 
    CacheGraphics -> False, CellOpen -> Dynamic[
      CurrentValue[
-      EvaluationNotebook[], {TaggingRules, "ToolsOpen"}, True]]], 
-  Cell[
-   BoxData[
-    StyleBox[
-     TagBox[
-      GridBox[{{
-         OverlayBox[{
-           StyleBox[
-            TagBox[
-             DynamicModuleBox[{Typeset`var$$ = False}, 
-              InterpretationBox[
-               StyleBox[
-                PaneSelectorBox[{False -> GridBox[{{
-                    OpenerBox[
-                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
-                    Automatic, AutoAction -> False, ContinuousAction -> 
-                    False], 
-                    StyleBox[
-                    DynamicBox[
-                    ToBoxes[
-                    DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                    StandardForm], SingleEvaluation -> True, Evaluator -> 
-                    "System"], FontSlant -> Italic, FontColor -> 
-                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
-                    False]}}, GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                    AutoDelete -> False, 
-                    GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
-                    GridBoxItemSize -> {
-                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-                    GridBoxSpacings -> {
-                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
-                    BaselinePosition -> {1, 1}], True -> GridBox[{{
-                    OpenerBox[
-                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
-                    Automatic, AutoAction -> False, ContinuousAction -> 
-                    False], 
-                    StyleBox[
-                    DynamicBox[
-                    ToBoxes[
-                    DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                    StandardForm], SingleEvaluation -> True, Evaluator -> 
-                    "System"], FontSlant -> Italic, FontColor -> 
-                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
-                    False]}, {"", 
-                    PaneBox["\"\"", ImageMargins -> 0]}}, 
-                    GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
-                    False, GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
-                    GridBoxItemSize -> {
-                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-                    GridBoxSpacings -> {
-                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
-                    BaselinePosition -> {1, 1}]}, 
-                 Dynamic[Typeset`var$$], Alignment -> Automatic, ImageSize -> 
-                 Automatic, ImageMargins -> 0, BaseStyle -> {}, 
-                 DefaultBaseStyle -> "OpenerView", BaselinePosition -> 
-                 Baseline], Deployed -> False, StripOnInput -> False], 
-               OpenerView[{
-                 Style[
-                  Dynamic[
-                   DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                   SingleEvaluation -> True, Evaluator -> "System"], 
-                  FontSlant -> Italic, FontColor -> GrayLevel[0.5], FontSize -> 
-                  0.9 Inherited], ""}, False]], DynamicModuleValues -> 
-              Automatic], Setting[#, {0}]& ], ShowContents -> False, 
-            StripOnInput -> False], 
-           StyleBox[
-            DynamicBox[
-             ToBoxes[
-              DateString[
-               TimeZoneConvert[
-                DateObject[
-                3.891250994784854`16.34266423387642*^9, TimeZone -> 0]], {
-               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short",
-                 ":", "Minute", " ", "AMPMLowerCase"}], StandardForm], 
-             SingleEvaluation -> True, Evaluator -> "System"], FontSlant -> 
-            Italic, FontColor -> GrayLevel[0.5], FontSize -> 0.9 Inherited, 
-            StripOnInput -> False]}, Alignment -> {Right, Baseline}], 
-         "\"   \"", 
-         ItemBox[
-          StyleBox[
-          "\"Found 1 potential issue and 13 suggestions\"", LineBreakWithin -> 
-           Automatic, LineIndent -> 0, StripOnInput -> False], ItemSize -> 
-          Fit, StripOnInput -> False], 
-         StyleBox[
-          ActionMenuBox[
-           TemplateBox[{
-             TemplateBox[{
-               TagBox[
-                GridBox[{{
-                   TemplateBox[{
-                    TemplateBox[{
-                    PaneBox[
-                    TemplateBox[{
-                    RGBColor[1., 0.4627450980392157, 0.]}, "HintPodIconHint"],
-                     ImageSize -> {12, 12}, ImageSizeAction -> "ShrinkToFit", 
-                    BaselinePosition -> Scaled[0.1]], 
-                    TemplateBox[{1}, "Spacer1"], 
-                    StyleBox[
-                    "1", FontSize -> 14, FontWeight -> Plain, FontColor -> 
-                    GrayLevel[0.25], FontFamily -> "Source Sans Pro", 
-                    StripOnInput -> False]}, "RowDefault"], 
-                    "\"Potential issues found\""}, "PrettyTooltipTemplate"], 
-                   TemplateBox[{
-                    TemplateBox[{
-                    PaneBox[
-                    TemplateBox[{
-                    RGBColor[
-                    0.49019607843137253`, 0.49019607843137253`, 
-                    0.49019607843137253`]}, "HintPodIconHint"], 
-                    ImageSize -> {12, 12}, ImageSizeAction -> "ShrinkToFit", 
-                    BaselinePosition -> Scaled[0.1]], 
-                    TemplateBox[{1}, "Spacer1"], 
-                    StyleBox[
-                    "13", FontSize -> 14, FontWeight -> Plain, FontColor -> 
-                    GrayLevel[0.25], FontFamily -> "Source Sans Pro", 
-                    StripOnInput -> False]}, "RowDefault"], 
-                    "\"Suggestions found\""}, "PrettyTooltipTemplate"]}}, 
-                 AutoDelete -> False, 
-                 GridBoxItemSize -> {
-                  "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
-                "Grid"], 
-               GraphicsBox[{
-                 GrayLevel[0.4], 
-                 AbsoluteThickness[2], 
-                 CapForm["Round"], 
-                 LineBox[{{-1, 0}, {0, -1}, {1, 0}}]}, {
-                ImageSize -> {13, 9}, BaselinePosition -> Scaled[0.2], 
-                 ImagePadding -> {{3, 3}, {3, 3}}, AspectRatio -> Full}]}, 
-              "RowDefault"], ImageSize -> {Automatic, 19}, BaselinePosition -> 
-             Baseline, Background -> GrayLevel[1], FrameStyle -> Dynamic[
-               If[
-                CurrentValue["MouseOver"], 
-                Hue[0.55, 0.82, 0.87], 
-                GrayLevel[0.8]]], FrameMargins -> {{4, 4}, {1, 1}}, 
-             Alignment -> {Center, Baseline}}, "Highlighted"], {TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L131,C7) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "8849866e-44c3-43fa-9310-8ed41667cc57", 1694918712, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/MonadTracer.wl", "Editor" -> 
-                 Automatic, "SourceLineStart" -> 131, "SourceColumnStart" -> 
-                 7, "SourceLineEnd" -> 131, "SourceColumnEnd" -> 11, 
-                 "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L131,C7) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{131, 7}, {131, 11}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/MonadTracer.wl", "Editor" -> 
-                    Automatic|>], "Hash" -> 2859530721146074933, "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L131,C7) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[1694918712]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L141,C19) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "e34752e1-6357-491c-9842-8f720c690656", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 141, 
-                 "SourceColumnStart" -> 19, "SourceLineEnd" -> 141, 
-                 "SourceColumnEnd" -> 23, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L141,C19) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{141, 19}, {141, 23}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L141,C19) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L151,C19) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "8a4f46fa-7994-4cdb-8dc4-3f15e9da0a44", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 151, 
-                 "SourceColumnStart" -> 19, "SourceLineEnd" -> 151, 
-                 "SourceColumnEnd" -> 23, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L151,C19) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{151, 19}, {151, 23}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L151,C19) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L164,C17) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "07863d84-d4ff-4be9-8d14-36a57289045c", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 164, 
-                 "SourceColumnStart" -> 17, "SourceLineEnd" -> 164, 
-                 "SourceColumnEnd" -> 21, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L164,C17) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{164, 17}, {164, 21}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L164,C17) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L172,C21) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "412a98ef-6a52-4398-9384-84454ab4c293", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 172, 
-                 "SourceColumnStart" -> 21, "SourceLineEnd" -> 172, 
-                 "SourceColumnEnd" -> 25, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L172,C21) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{172, 21}, {172, 25}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L172,C21) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L188,C59) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "8e679535-f791-4eb2-b990-d6326e3d1e80", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 188, 
-                 "SourceColumnStart" -> 59, "SourceLineEnd" -> 188, 
-                 "SourceColumnEnd" -> 63, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L188,C59) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{188, 59}, {188, 63}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L188,C59) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L189,C47) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "071b9ce7-5348-47eb-b044-51e3714a1841", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 189, 
-                 "SourceColumnStart" -> 47, "SourceLineEnd" -> 189, 
-                 "SourceColumnEnd" -> 51, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L189,C47) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{189, 47}, {189, 51}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L189,C47) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L194,C48) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "78b4591f-a9e1-41d8-8bd3-c1df8bbe14d8", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 194, 
-                 "SourceColumnStart" -> 48, "SourceLineEnd" -> 194, 
-                 "SourceColumnEnd" -> 52, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L194,C48) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{194, 48}, {194, 52}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L194,C48) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L195,C52) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "abf6dcde-2acc-409e-9687-7aa0c9bb9e86", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 195, 
-                 "SourceColumnStart" -> 52, "SourceLineEnd" -> 195, 
-                 "SourceColumnEnd" -> 56, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L195,C52) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{195, 52}, {195, 56}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L195,C52) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L202,C62) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "ec75f297-3981-45ba-aa87-e52be5587c44", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 202, 
-                 "SourceColumnStart" -> 62, "SourceLineEnd" -> 202, 
-                 "SourceColumnEnd" -> 66, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L202,C62) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{202, 62}, {202, 66}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L202,C62) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{"\"Suspicious use of session symbol \"", 
-                 StyleBox[
-                 "Echo", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L207,C50) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "b0a80bbf-f3ec-4f21-9a3a-722e40764516", 128215129, 
-                "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
-                "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 207, 
-                 "SourceColumnStart" -> 50, "SourceLineEnd" -> 207, 
-                 "SourceColumnEnd" -> 54, "Message" -> 
-                 "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\"\
-\\\" (L207,C50) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "SuspiciousSessionSymbol", 
-                   "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                   CodeParser`Source -> {{207, 50}, {207, 54}}, 
-                    ConfidenceLevel -> 0.55, "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L207,C50) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[1., 0.4627450980392157, 0.]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               TemplateBox[{
-                 StyleBox[
-                 "Module", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\" variable error: \"", 
-                 StyleBox[
-                 "sets", "Program", FontWeight -> Medium, 
-                  ShowStringCharacters -> True, StripOnInput -> False], 
-                 "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L48,C30) \\\\\\\"\\\", \
-Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
-Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", False]]], \
-Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Warning", "Paclet", DefinitionNotebookClient`$CurrentNotebook,
-                 "74a9a4d1-7239-424b-b446-5693b3fe3d2f", 128215129, 
-                "CodeInspectionFileIssue/VariableError/Module", <|
-                "Argument" -> "Module", "File" -> 
-                 "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                 "Editor" -> Automatic, "SourceLineStart" -> 48, 
-                 "SourceColumnStart" -> 30, "SourceLineEnd" -> 48, 
-                 "SourceColumnEnd" -> 34, "Message" -> 
-                 "``Module`` variable error: ``sets``.\!\(\*StyleBox[\"\\\" \
-(L48,C30) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
-Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
-False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
-                 CodeInspector`InspectionObject[
-                  "VariableError", "``Module`` variable error: ``sets``.", 
-                   "Error", <|
-                   CodeParser`Source -> {{48, 30}, {48, 34}}, ConfidenceLevel -> 
-                    0.95, "Argument" -> "Module", "File" -> 
-                    "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/Kernel/StateMonadGenerator.wl", 
-                    "Editor" -> Automatic|>], "Hash" -> 341785248857459014, 
-                 "Position" -> 
-                 "\!\(\*StyleBox[\"\\\" (L48,C30) \\\"\", Rule[FontOpacity, \
-0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
-List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
-False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[128215129]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               "\"The \\!\\(\\*TemplateBox[List[\\\"\\\\\\\"aspect \
-ratio\\\\\\\"\\\", \\\"paclet:ref/ImageResize#1946617708\\\"], \
-\\\"HyperlinkPaclet\\\"]\\) of the headline image should usually be greater \
-than 0.5\""}, "RowDefault"] :> DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "6c7e49c4-27b0-40e2-8f12-f57e24b1f4a0", 445097320, 
-                "HeroImageSquashed", <|
-                "Actual" -> Rational[460, 1277], "Expected" -> 0.5, "Resize" -> {
-                   Scaled[0.7204385277995301], 
-                   Scaled[1]}, "AspectRatio" -> 
-                 "\!\(\*TemplateBox[List[\"\\\"aspect ratio\\\"\", \
-\"paclet:ref/ImageResize#1946617708\"], \"HyperlinkPaclet\"]\)"|>]; 
-              DefinitionNotebookClient`PackageScope`seekAfter[445097320]; 
-              Null], TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               "\"Curly quotes should usually be written as straight \
-quotes\""}, "RowDefault"] :> DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "0ea7ac64-d04d-446b-ba5b-e8947fe70960", 1446090961, 
-                "CurlyQuotes", {}]; 
-              DefinitionNotebookClient`PackageScope`seekAfter[1446090961]; 
-              Null]}, Appearance -> None], "BoxID" -> "WarningCountButton", 
-          StripOnInput -> False], 
-         TagBox[
-          ButtonBox[
-           TagBox[
-            PaneSelectorBox[{False -> GraphicsBox[{
-                 GrayLevel[
-                  NCache[
-                   Rational[64, 85], 0.7529411764705882]], 
-                 
-                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
-                  0.42426406871192845`}, {0.42426406871192845`, 
-                  0.282842712474619}}], 
-                 
-                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
-                  0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
-                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
-                0, PlotRange -> 0.7, Background -> None], True -> GraphicsBox[{
-                 GrayLevel[
-                  NCache[
-                   Rational[128, 255], 0.5019607843137255]], 
-                 
-                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
-                  0.42426406871192845`}, {0.42426406871192845`, 
-                  0.282842712474619}}], 
-                 
-                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
-                  0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
-                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
-                0, PlotRange -> 0.7, Background -> None]}, 
-             Dynamic[
-              CurrentValue["MouseOver"]], ImageSize -> Automatic, 
-             FrameMargins -> 0], 
-            MouseAppearanceTag["LinkHand"]], ButtonFunction :> 
-           With[{DefinitionNotebookClient`Stripes`PackagePrivate`nbo$ = 
-              EvaluationNotebook[]}, 
-             CurrentValue[
-              DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-               DockedCells] = If[
-               TrueQ[
-                MemberQ[
-                 CurrentValue["ModifierKeys"], "Control"]], 
-               DeleteCases[
-                Flatten[{
-                  CurrentValue[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-                   DockedCells]}], 
-                Cell[
-                 Blank[], "StripeCell", 
-                 BlankNullSequence[]]], 
-               DeleteCases[
-                Flatten[{
-                  CurrentValue[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-                   DockedCells]}], 
-                Condition[
-                 Pattern[DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                  Blank[Cell]], 
-                 Not[
-                  FreeQ[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                   "d14e1b09-e360-4649-80f0-56fcf49c2e9a"]]]]]], Appearance -> 
-           None, BoxID -> "d14e1b09-e360-4649-80f0-56fcf49c2e9a", Evaluator -> 
-           Automatic, Method -> "Preemptive"], 
-          MouseAppearanceTag["LinkHand"]]}}, 
-       GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
-       AutoDelete -> False, 
-       GridBoxItemSize -> {
-        "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], "Grid"], 
-     "Text", FontSize -> 12, FontColor -> GrayLevel[0.25], StripOnInput -> 
-     False]], "StripeCell", CellFrameMargins -> {{20, 5}, {2, 2}}, 
-   CellFrame -> {{0, 0}, {1, 0}}, CellFrameColor -> GrayLevel[0.75]]},
+      EvaluationNotebook[], {TaggingRules, "ToolsOpen"}, True]]]},
 TaggingRules->{
  "ResourceType" -> "Paclet", "ResourceCreateNotebook" -> True, 
   "TemplateVersion" -> "2022.09.16", "CreationTimestamp" -> 
@@ -5868,33 +5175,34 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
   "PacletBuildData" -> {
    "LastBuiltArchive" -> 
     "/Volumes/Macintosh \
-HD/Users/antonov/WL-MonadMakers-paclet/build/AntonAntonov__MonadMakers-1.0.0.\
+HD/Users/antonov/WL-MonadMakers-paclet/build/AntonAntonov__MonadMakers-1.0.1.\
 paclet", "FileHashes" -> ByteArray[CompressedData["
-1:eJwBEwTs+yFib1JiAQAAAAYEAAA4Qzp4nKWWb0wbZRjAFXEuc2Sim6Eii7Rk
-A/S9ohvCwCD9A11pb0PfQlDJ6vX6tj16vIfvXQdkGYtmcR/84JY5DWZRN3Hs
-g9myhLhNY2LU+GebGSHAYhxglE0DCiHZFsQteqXoWw+4XeunNu/d8/vd8/57
-HpsFwEedEh9rRVjhFEHC1hocFgU5YnXFhCCSrayEuWArFxVwmMEBWwaAK6AU
-IzzyBojFFnhhuFQd8XEkjBQv6c+YHp8F2wA0L8104yDqsPpLGD4kJ6HkzG0S
-RpTTeezUuxPnV9kB3KDHkVE4/kj2b9JhjawvbG5ikQJgoREWE0ZYh5bN/vhy
-T8cvWwC0LU17FoUQQZhH9VxYnT3Y2RqQRNlqk2WJF+ZfZaVgTESaufzunnNR
-f+aROmqavDbcNd1ncgJYm5LJhTAinILm183GqynIEpE1uuKY48pE9K07knQD
-H1wA8GQhgI70dU4itSGicbG99kb3+tWQus5bP5m999dD5H+5IFKURa7DRS8d
-eeSyp4C6MiN9Z9rr7mwA0J6+y8dFF6nsJ2aqPx0+kEdVH3/IrTr42fGudFcM
-Kv/4HFJQu0FYsvaPnIkShur6Xpk1Xy/vXAvgk6npiBAsL9Pgs4qmjv7lNudT
-/JrNxyLnnt6JAaxKCe8jHJ/Iwi7goEZztJ358qGD0kqqGX7whPDnYH1jqutD
-NTV8RIrnpFGVnu3qr56z8VRVXG156mJV3zMAVqSp0igsrw8M1L7ml6nindHs
-qbLpoofTzya+1ZbIZqitN/zt3jE/Vc1c9rs7rtzak/76NGBB0Wj2v/lGW/fq
-z3OoZt/x+3tvuCpyU82ogHpqOUGMEe2Gfu/G1VHnOk8zVe3euKdlPL/bAWDx
-0iqIOMJHEvd1aaKKIJ27ug4/ZzKxBTmp8PSqUt7U+97rrhfV7ysyyJMFHdzM
-2I6zzYHtTQACI7iQgMSgzLSLOsjclReJw16pnuLNRpBC/FctjVyQUzh9smtD
-7Yq5kX4zgIwR8r+V+QkdJvi6sjHj+clKg8x2IiiIESU+qsMUGrabm35q8AC4
-cRlmGxJFg23ItS++2Ve2f/AuQ7Dy28C28j88fmbsbtuy/VYSzFBj4558ddPW
-LMuu5ffPYuBtuhvT6d05PcotV0rf2KIDHLoZHTpk8jHL3h6+mCIRgRMX+kxe
-LXzhRDlU3+LiIgVhWf2vuT1mxg7fPO3Zm6Taeemr/O66HnV+13kQwUhMENl4
-6dYcG28Ne+rA7yUjFTSajvwnev4SI5roXYNX3aW5zgCNpiN5C9G0li9Ud0lL
-GZ974Of+S4+1UAodyarneBEpbhySNFG/eXdsGbW8nZQ3HclORLEcFkJIVvQP
-9Jr7qi58dPJ7z99U5nCHJtcVFQ==
-      "]]}, "TryRealOnly" -> False, "Paclet" -> "None"},
+1:eJwBEwTs+yFib1JiAQAAAAYEAAA4Qzp4nKWWbUwcRRiAI5KGtILQSq1STFsI
+RejcXYDjo1ST47MXOKzMXWKUint7c8tye7PX2VlagyfR2kIjSW2tSpMmbShR
+af/QqNFi0qQ1ERJ/tIkcNRq0Fqg2xBj8aBpiqXscOnWB7d75azdz+z7PvTvv
+vu84cgAsrJF5NYgw5agoY2stFiRRabPWq6IPKVaXjDlfkAuIWLBgryMJwFVQ
+VgmPGr0kx+F9Ydyurbg5IiDaSK4k/Tp1GzQBuGV5phP70D5rq83C+5V7UEpy
+k4wR4wxjiyN78GYdgHlGHAUJ0Z+U1mID1u5DwfJsPtwIYL4ZlkVA2ICW4br2
+2sC+nyoAdCxPa0Z+RBDm0S5O0N4efDnolSXF6lAUmRcXHnXJPlVCunf5lDPv
+8cMXOoqYaTwzcumr7w6uB7AuLlM9wohwFC3sm4PXUlBkouh0M1Wrhm3d3Q8w
+nfK8e5yu3bMZwOrEdTVEDiGic93dP3J5rXp+M3PNZpw5WzqZ5/hfLogoXeLa
+5N12eyA42Mxc506Mdn25Py8dwKrEXW4usERVPzR9qqC9oIyp1lNw9OJQV0ei
+OwbpP75q2acvkIf3pKel9E9UMl3lVNrh5sGxQgBL49MR0VdepsOrtreHRgZX
+72D40IlXV/fdbNgI4NNx4d2E42NZVInYp8+i6MKP+OT3EtMc6QoPt/DHauPd
+H6ap5dvkaE46Ve8PZ8MH3jxdzFSPTOMswfO+1vG2J6jSKV4faVJPuW+pTKFW
+p//+Xg21J55NtNSWyebj3t+OZ7W8k8tU2ckbz2d+O5uS+P54sEh1GuuamRd3
+fNa/hmnkr0fn8bup4XgzymWeOk6UVKIv6M7myI2tE30CU52x3Ur+aJ5qJV6w
+vAoijvBtsX5tj00RZNCr28uTC1/K7wnFwzOaShUncz989KHZZwF80iRPEQ1w
+gXx34FjvAa3ygRmcX0SST7HslQyQWSmXSXVVpdZqS8wgxejVhSjn4yhnTO55
+42dPRWUgCKDFDPnfyVxkwJw7dHfItenSbpPMvUSkyCLJfMCAKXqe2fLcdU8D
+gFtXYIaQJJk8hvzxxWh32VtjD5qCld8Hdu1oy52+yCslK5637oGZOtg4Zw4W
+70zN6Vy5fpYC73O6eezT8IYBeqc+rv/YbgD83DJ5ur+htWvF7uFWqUxETlo8
+Z/La4BNi41B7iouKKMKKdq/rHlftn5SAyDdPMNWfdO6D6fnrWj/MbEAEIylG
+dEVHt+6zaax1nTvyi21iO4tmK/+JXmhiRBfdOXbDac+q8bJotpK9GM1m+eJ0
+l/WUqbl1k1eubmtnFLaSuovjJUSd2C/romiE/JWWBEIsiq1kxKJcHBb9SKHG
+H/TwhuKejtKL0t/grG1LMzAYDQ==
+      "]]}, "TryRealOnly" -> False, "Paclet" -> "None", 
+  "Openers" -> {"ExampleSection" -> {"2" -> Closed}}},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,
 FrontEndVersion->"13.2 for Mac OS X ARM (64-bit) (January 30, 2023)",
@@ -6207,6 +5515,7 @@ VX/aMEEQzrerjFhhelYAzofFB3r8AgApYdcE
                     GrayLevel[0.65], 
                     Thickness[
                     NCache[2/45, 0.044444]], 
+                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1, 
                     0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
@@ -7178,6 +6487,7 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                    FaceForm[{
                     RGBColor[0.31373, 0.4549, 0.61176], 
                     Opacity[1.]}], 
+                   
                    FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}}}, {{{182.78, 198.67}, {182.78, 123.95}, {118.06, 
                     86.587}, {118.06, 161.31}, {182.78, 198.67}}}]}, {
@@ -7462,8 +6772,7 @@ AsyncronousResourceInformationUpdates = False,
              GridBox[{{"\"\"", "\"\""}}, 
               GridBoxAlignment -> {
                "Columns" -> {{Left}}, "Rows" -> {{Center}}}, AutoDelete -> 
-              False, 
-              GridBoxDividers -> {
+              False, GridBoxDividers -> {
                "ColumnsIndexed" -> {2 -> True}, "Rows" -> {{False}}}, 
               GridBoxItemSize -> {
                "Columns" -> {{Automatic}}, "Rows" -> {{2}}}, 
@@ -7850,7 +7159,6 @@ p2HmwdTp4FCHTvOhqYfZrw2lhdDk0fno6tHcD1PPwOSAnY+uns8BAE8cGz4=
 Hw4apk4Uap8aDr4QDhqqDu4uVRx8URw0TJ001D5lHHwJHDRUHYMclFbCwZfG
 QUPVNSjgp+HmIWgAG/wcEg==
                     "]], 
-                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2,
                      0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 
                     0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1,
@@ -9065,6 +8373,7 @@ Mn8D1T+bLHr4qqKuQ8bv8LBZfwwdhGSmFwY76zqghzcABAZ3MA==
           FaceForm[
            GrayLevel[1.]]], 
          StyleBox[{
+           
            FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1,
              0}, {0, 1, 0}}}, {{{13., 18.}, {13., 14.5}, {12.99992, 
             14.367367999999999`}, {13.052580000000003`, 14.240146}, {
@@ -9604,7 +8913,6 @@ Mn8D1T+bLHr4qqKuQ8bv8LBZfwwdhGSmFwY76zqghzcABAZ3MA==
           FaceForm[
            GrayLevel[1.]]], 
          StyleBox[{
-           
            FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {1, 3,
               3}, {1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {1, 
              3, 3}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 3}, {
@@ -12313,7 +11621,6 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     If[
                     And[RSNB`nbDir =!= RSNB`oldDir, 
                     MemberQ[$Packages, "PacletResource`DefinitionNotebook`"]], 
-                    
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
@@ -12784,6 +12091,7 @@ RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]],
                     EvaluationCell[], 
                     Cell[
                     BoxData[
+                    
                     TemplateBox[{"\"The current notebook is not saved.\""}, 
                     "PacletDirectoryChooserErrorTemplate"]], 
                     "AttachedMessage"], "Inline", 
@@ -13615,6 +12923,7 @@ GRPf1sw3cDj8VSOm/5G9w5vAHXKt3IZQ/0HDoQHBFwFFwBcEHxR9zQlGcP3o
             FaceForm[{
               RGBColor[0.91, 0.655, 0.635], 
               Opacity[1.]}], 
+            
             FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 
              1, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{12.125, 17.763}, {
              11.875, 17.763}, {11.875, 12.041}, {6.952, 9.9757}, {7.048, 
