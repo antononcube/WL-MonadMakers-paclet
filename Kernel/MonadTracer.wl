@@ -36,7 +36,7 @@ ClearAll[$TraceMonadFailure];
 (* Generation                                                 *)
 (**************************************************************)
 Needs["AntonAntonov`MonadMakers`"];
-Needs["AntonAntonov`MonadMakers`StateMonadCodeGenerator`"];
+(*Needs["AntonAntonov`MonadMakers`StateMonadCodeGenerator`"];*)
 
 GenerateStateMonadCode["AntonAntonov`MonadMakers`TraceMonad", "StringContextNames" -> False, "FailureSymbol" -> $TraceMonadFailure ];
 
